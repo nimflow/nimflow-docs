@@ -27,7 +27,7 @@ linea azul la relación con la acción *registrar*
 ![image](https://user-images.githubusercontent.com/44214222/118591972-c7b6e280-b76a-11eb-8386-fe7bb3189bb4.png)
 
 ### Próximo paso
-[Crear la tarea Asignar Analista](./nimflow-assignBusinessAnalyst.md)
+[Crear la tarea Asignar Analista](./nimflow-createAssignAnalystTask.md)
 
 #### Paso anterior
 [Simular](./nimflow-simulate.md)
