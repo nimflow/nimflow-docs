@@ -19,7 +19,7 @@ Una **Acción** se utiliza para notificar eventos en un **Contexto**. A continua
 
 5. Complete el [JSON Schema](https://json-schema.org/) con los datos de la imagen a continuación y al finalizar seleccione **Aceptar**
 
-![image](https://user-images.githubusercontent.com/44214222/118589779-b2d85000-b766-11eb-86ca-02fe439ff23f.png)
+![image](https://user-images.githubusercontent.com/44214222/118589849-d4d1d280-b766-11eb-9248-739f004d988f.png)
 
 6. Cree un campo donde se guardarán los datos recibidos en la acción (**Payload**)
 
