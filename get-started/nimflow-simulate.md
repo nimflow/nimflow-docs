@@ -17,7 +17,7 @@ El simulador es una herramienta útil durante la construcción de un **Tipo de C
 
 4. Se visualizará el editor de simulaciones. Complete el campo nombre según la imagen y luego grabe la simulación.
 
-![simulate editor name](https://user-images.githubusercontent.com/44214222/118586496-79044b00-b760-11eb-9f1c-2f270bbe05c7.png)
+![simulate editor name](https://user-images.githubusercontent.com/44214222/118589054-3bee8780-b765-11eb-967f-a60e11d58d44.png)
 
 Usaremos esta simulación durante la construcción de la solución. Ahora vamos a simular la **Acción** para registrar una oportunidad.
 
@@ -29,12 +29,19 @@ Usaremos esta simulación durante la construcción de la solución. Ahora vamos 
 
 ![simulate initial action registrar](https://user-images.githubusercontent.com/44214222/118586808-034caf00-b761-11eb-8544-16cbe498bf99.png)
 
-7. Complete la referencia según la imagen y seleccione el botón **Agregar Acción**
+Si no aparece el botón **Registrat**, verifique que haya seleccionado en el paso anterior que la **Acción Registrar** sea inicial.
 
-![simulate initial action registrar reference](https://user-images.githubusercontent.com/44214222/118586926-3e4ee280-b761-11eb-9d53-c0011900280c.png)
+7. Complete la referencia según la imagen ( el campo Descripción contiene: "Seguimiento con los contactos de los proveedores que recibieron Ordenes de Compra") y seleccione el botón **Agregar Acción**
 
-Hemos simulato el evento inicial **Registrar**. Ahora exploraremos el estado del contexto. Antes de visualizar las reacciones, note que la clave *oportunidad*
-tiene asignado un valor null ya que no hemos pasado ningún dato durante el registro de la **Acción Registrar**
+![simulate initial action registrar reference](https://user-images.githubusercontent.com/44214222/118589428-fd0d0180-b765-11eb-8960-a76f2b9c482b.png)
+
+Hemos simulato el evento inicial **Registrar**. Ahora exploraremos el estado del contexto. 
+
+8. Oprima el ícono de flecha en el estado de contexto
+
+![simulate state](https://user-images.githubusercontent.com/44214222/118589587-478e7e00-b766-11eb-97d3-0904633ccf6b.png)
+
+El campo oportunidad es un objeto con dos propiedades, title
 
 8. Seleccione el ícono con forma de flecha hacia abajo. Esto expandirá el evento seleccionado permitiendo ver el **Payload** (los datos enviados con la acción).
 
