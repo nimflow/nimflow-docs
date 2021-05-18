@@ -27,7 +27,7 @@ A continuación guarde los cambios al **Tipo de Contexto**.
 Ya ha creado un nuevo **Tipo de Contexto** !!!!
 
 ### Próximo paso
-[Crear la acción Registrar](get-started/nimflow-createRecordAction.md)
+[Crear la acción Registrar](./nimflow-createRecordAction.md)
 
 (https://github.com/nimflow/nimflow-docs/blob/8ed9aa9ea3ad180872ad55b9e8891300c1728655/get-started/nimflow-createRecordAction.md)
 
