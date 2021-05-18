@@ -4,4 +4,4 @@ En esta guía construiremos una solución para Gestionar Oportunidades de Hiper-
 Esta guía es bastante simple, pero si encuentran problemas pueden consultarnos en support@nimflow.com
 
 ### Próximo paso
-[Crear un Tipo de Contexto](https://github.com/nimflow/nimflow-docs/blob/dc4ec80aca338424bb8b2c0e7ee7a85d115cae75/get-started/nimflow-createContextType.md)
+[Crear un Tipo de Contexto]((https://github.com/nimflow/nimflow-docs/blob/3231b5ceec14b66f4ef19a5a49951522a20b3006/get-started/nimflow-createContextType.md)
