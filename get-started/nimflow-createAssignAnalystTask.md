@@ -4,4 +4,4 @@ En este paso vamos a crear una tarea para asignar un analista de negocios a la o
 ### Próximo paso
 
 #### Paso anterior
-[Crear hito recibido](./nimflow-createReceivedMilestone.md)
+[Crear el hito recibido](./nimflow-createReceivedMilestone.md)
