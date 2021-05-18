@@ -29,3 +29,4 @@ Ya ha creado un nuevo **Tipo de Contexto** !!!!
 ### Próximo paso
 [Crear la acción Registrar](https://github.com/nimflow/nimflow-docs/blob/8ed9aa9ea3ad180872ad55b9e8891300c1728655/get-started/nimflow-createRecordAction.md)
 
+### Paso anterior
