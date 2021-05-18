@@ -36,6 +36,7 @@ Cada **Tipo de Contexto** debe indicar al menos una **Acción** como inicial, pa
 Antes de continuar guarde los cambios en el **Tipo de Contexto**.
 
 ### Próximo paso
+[Simular](./nimflow-simulate.md)
 
 #### Paso anterior
-[Crear un Tipo de Contexto](https://github.com/nimflow/nimflow-docs/blob/ce669b6578b6306f44e583bcdfcf67bd355a0902/get-started/nimflow-createContextType.md)
+[Crear un Tipo de Contexto](./nimflow-createContextType.md)
