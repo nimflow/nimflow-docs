@@ -1,4 +1,4 @@
-# nimflow-docs
+# Documentación de nimflow
 
 ## Introducción
 nimflow es un orquestador de actividades que brida ***contexto*** a soluciones de hiper-automatización, permitiendo construir sin esfuerzo soluciones complejas que integren a trabajadores humanos y digitales.
