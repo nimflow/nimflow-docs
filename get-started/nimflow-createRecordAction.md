@@ -13,17 +13,25 @@ Una **Acción** se utiliza para notificar eventos en un **Contexto**. A continua
 
 ![context type action name](https://user-images.githubusercontent.com/44214222/118573686-a7762c00-b748-11eb-95d8-fb8cef834afc.png)
 
-4. Cree una **Clave** para el **Campo** donde se guardarán los datos recibidos en el **Payload** de la **Acción**
+4. Selecciona el botón **JSON Schema** para definir la estructura de los datos que se espera recibir con esta acción (**Payload**)
 
-![context type action setter](https://user-images.githubusercontent.com/44214222/118573888-ffad2e00-b748-11eb-9ab8-db5b01ace6f3.png)
+![context type action json schema](https://user-images.githubusercontent.com/44214222/118587570-7acf0e00-b762-11eb-9579-5710e2ef89c1.png)
 
-5. Guarde los cambios en el registro de la **Clave**
+5. Complete el [JSON Schema](https://json-schema.org/) con los datos de la imagen a continuación y al finalizar seleccione **Aceptar**
 
-![context type action key save](https://user-images.githubusercontent.com/44214222/118573979-28cdbe80-b749-11eb-998f-7657ca2531b2.png)
+![image](https://user-images.githubusercontent.com/44214222/118587789-ced9f280-b762-11eb-9a86-4e92d0fe55e1.png)
+
+6. Cree una **Clave** para el **Campo** donde se guardarán los datos recibidos en el **Payload** de la **Acción**
+
+![context type action setter](https://user-images.githubusercontent.com/44214222/118588602-52e0aa00-b764-11eb-9a6a-377b9b124348.png)
+
+Para acceder a los datos del payload puede utilizar el objeto *payload*. En este caso asignaremos el *payload& a la clave *oportunidad* según muestra la imagen. 
+
+La expressión para asignar la clave se resuelve con **Javascript** y se puede acceder a un editor de expresiones ([Monaco](https://microsoft.github.io/monaco-editor/index.html)) seleccionando el ícono ![image](https://user-images.githubusercontent.com/44214222/118588304-bae2c080-b763-11eb-95d8-6ce8d858dd03.png)
 
 6. Guarde los cambios en la **Acción**
 
-![context type action save](https://user-images.githubusercontent.com/44214222/118574053-4ac74100-b749-11eb-946e-60cf86683656.png)
+![context type action save](https://user-images.githubusercontent.com/44214222/118588664-799ee080-b764-11eb-8c9b-a91b7b21b6ad.png)
 
 Esto creará la acción y la agregará como un nodo en el editor de **Tipo de Contexto**. 
 
