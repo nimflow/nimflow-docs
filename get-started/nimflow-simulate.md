@@ -31,21 +31,29 @@ Usaremos esta simulación durante la construcción de la solución. Ahora vamos 
 
 Si no aparece el botón **Registrat**, verifique que haya seleccionado en el paso anterior que la **Acción Registrar** sea inicial.
 
-7. Complete la referencia según la imagen ( el campo Descripción contiene: "Seguimiento con los contactos de los proveedores que recibieron Ordenes de Compra") y seleccione el botón **Agregar Acción**
+7. Complete la referencia según la imagen y seleccione el botón **Agregar Acción**
 
-![simulate initial action registrar reference](https://user-images.githubusercontent.com/44214222/118589428-fd0d0180-b765-11eb-8960-a76f2b9c482b.png)
+![simulate initial action registrar reference](https://user-images.githubusercontent.com/44214222/118589984-267a5d00-b767-11eb-88db-3d5fae00b01e.png)
 
-Hemos simulato el evento inicial **Registrar**. Ahora exploraremos el estado del contexto. 
+Hemos simulado el evento inicial **Registrar**. Ahora exploraremos el estado del contexto. 
 
-8. Oprima el ícono de flecha en el estado de contexto
+8. Oprima el ícono de flecha en el campo *oportunidad* en el estado de contexto
 
-![simulate state](https://user-images.githubusercontent.com/44214222/118589587-478e7e00-b766-11eb-97d3-0904633ccf6b.png)
+![simulate state]![image](https://user-images.githubusercontent.com/44214222/118590043-401ba480-b767-11eb-9155-328fd62d4c0b.png)
 
-El campo oportunidad es un objeto con dos propiedades, title
+El campo oportunidad es un objeto con dos propiedades, *titulo* y *descripcion* con los datos que hemos ingresado en el payload de la acción registrar. Esto se debe a que en el paso anterior definimos que el payload se asigne al campo *oportunidad*.
 
-8. Seleccione el ícono con forma de flecha hacia abajo. Esto expandirá el evento seleccionado permitiendo ver el **Payload** (los datos enviados con la acción).
+8. También puede explorar el payload del evento seleccionando el ícono con forma de flecha hacia abajo según la imagen.
 
-![simulate initial action registrar expand](https://user-images.githubusercontent.com/44214222/118587285-f54b5e00-b761-11eb-86b9-bb100bcc3c24.png)
+![simulate initial action registrar expand](https://user-images.githubusercontent.com/44214222/118590325-d5b73400-b767-11eb-8664-8b07fed370b6.png)
+
+Como se comprueba en la imagen, estos datos coinciden con los datos ingresados con la acción *registrar* y con los datos actualmente en el campo *oportunidad*.
+
+Guarde la simulación antes de salir para continuar explorando sus datos en próximos pasos.
+
+### Próximo paso
+
+#### Paso anterior
 
 
 
