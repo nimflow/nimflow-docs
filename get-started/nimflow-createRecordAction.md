@@ -29,13 +29,13 @@ Para acceder a los datos del payload puede utilizar el objeto *payload*. En este
 
 La expressión para asignar la clave se resuelve con **Javascript**. Para construir expresiones más complejas se puede acceder a un editor con *intellisense* ([Monaco](https://microsoft.github.io/monaco-editor/index.html)) seleccionando el ícono ![image](https://user-images.githubusercontent.com/44214222/118588304-bae2c080-b763-11eb-95d8-6ce8d858dd03.png)
 
-6. Guarde los cambios en la **Acción**
+7. Guarde los cambios en la **Acción**
 
 ![context type action save](https://user-images.githubusercontent.com/44214222/118588664-799ee080-b764-11eb-8c9b-a91b7b21b6ad.png)
 
 Esto creará la acción y la agregará como un nodo en el editor de **Tipo de Contexto**. 
 
-7. Para crear un nuevo **Contexto** mediante una **Acción** es necesario indicar esta característica en el nodo seleccionando su ícono.
+8. Para crear un nuevo **Contexto** mediante una **Acción** es necesario indicar esta característica en el nodo seleccionando su ícono.
 
 ![image](https://user-images.githubusercontent.com/44214222/118574354-d8a32c00-b749-11eb-825f-72b5449784ec.png)
 
