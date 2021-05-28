@@ -16,3 +16,6 @@ Si esta es tu primer experiencia con nimflow, recomendamos que sigas la [Guía p
 
 ...
 
+## Conectores
+
+
