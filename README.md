@@ -10,7 +10,7 @@ nimflow se inspiró en la arquitectura de aplicaciones [Flux](https://facebook.g
 Si esta es tu primer experiencia con nimflow, recomendamos que sigas la [Guía para Comenzar](https://github.com/nimflow/nimflow-docs/tree/main/get-started#readme), donde aprenderás los conceptos básicos de nimflow.
 
 ## Principales Conceptos
-...
+....
 
 ## Componentes
 
