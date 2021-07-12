@@ -1,0 +1,24 @@
+{
+  "unversionedId": "welcome",
+  "id": "welcome",
+  "isDocsHomePage": false,
+  "title": "Welcome",
+  "description": "nimflow is a reactive task orchestrator for hyper-automation solutions. It enables makers to build complex solutions integrating seamlessly human and digital workers.",
+  "source": "@site/docs/welcome.md",
+  "sourceDirName": ".",
+  "slug": "/",
+  "permalink": "/es/",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/welcome.md",
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1,
+    "title": "Welcome",
+    "slug": "/"
+  },
+  "sidebar": "tutorialSidebar",
+  "next": {
+    "title": "Create a Page",
+    "permalink": "/es/tutorial-basics/create-a-page"
+  }
+}

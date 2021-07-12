@@ -1,0 +1,565 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "loadedVersions": [
+        {
+          "versionName": "current",
+          "versionLabel": "Next",
+          "versionPath": "/es/",
+          "versionEditUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs",
+          "versionEditUrlLocalized": "https://github.com/facebook/docusaurus/edit/master/website/i18n/es/docusaurus-plugin-content-docs/current",
+          "versionBanner": "none",
+          "isLast": true,
+          "routePriority": -1,
+          "sidebarFilePath": "/Users/dgr/repos/nimflow/nimflow-docs/sidebars.js",
+          "contentPath": "/Users/dgr/repos/nimflow/nimflow-docs/docs",
+          "contentPathLocalized": "/Users/dgr/repos/nimflow/nimflow-docs/i18n/es/docusaurus-plugin-content-docs/current",
+          "mainDocId": "welcome",
+          "sidebars": {
+            "tutorialSidebar": [
+              {
+                "type": "doc",
+                "id": "welcome"
+              },
+              {
+                "type": "category",
+                "label": "Tutorial - Basics",
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "tutorial-basics/create-a-page"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "tutorial-basics/create-a-document"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "tutorial-basics/create-a-blog-post"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "tutorial-basics/markdown-features"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "tutorial-basics/deploy-your-site"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "tutorial-basics/congratulations"
+                  }
+                ],
+                "collapsed": true
+              },
+              {
+                "type": "category",
+                "label": "Tutorial - Extras",
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "tutorial-extras/manage-docs-versions"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "tutorial-extras/translate-your-site"
+                  }
+                ],
+                "collapsed": true
+              },
+              {
+                "type": "category",
+                "label": "get-started",
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "get-started/get-started-intro"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "get-started/get-started-create-a-new-context-type"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "get-started/get-started-create-an-action"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "get-started/get-started-create-a-task"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "get-started/get-started-create-a-milestone"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "get-started/nimflow-portal"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "get-started/nimflow-simulate"
+                  }
+                ],
+                "collapsed": true
+              }
+            ]
+          },
+          "permalinkToSidebar": {
+            "/es/get-started/get-started-create-a-milestone": "tutorialSidebar",
+            "/es/get-started/get-started-create-a-new-context-type": "tutorialSidebar",
+            "/es/get-started/get-started-create-a-task": "tutorialSidebar",
+            "/es/get-started/get-started-create-an-action": "tutorialSidebar",
+            "/es/get-started/get-started-intro": "tutorialSidebar",
+            "/es/get-started/nimflow-portal": "tutorialSidebar",
+            "/es/get-started/nimflow-simulate": "tutorialSidebar",
+            "/es/tutorial-basics/congratulations": "tutorialSidebar",
+            "/es/tutorial-basics/create-a-blog-post": "tutorialSidebar",
+            "/es/tutorial-basics/create-a-document": "tutorialSidebar",
+            "/es/tutorial-basics/create-a-page": "tutorialSidebar",
+            "/es/tutorial-basics/deploy-your-site": "tutorialSidebar",
+            "/es/tutorial-basics/markdown-features": "tutorialSidebar",
+            "/es/tutorial-extras/manage-docs-versions": "tutorialSidebar",
+            "/es/tutorial-extras/translate-your-site": "tutorialSidebar",
+            "/es/": "tutorialSidebar"
+          },
+          "docs": [
+            {
+              "unversionedId": "get-started/get-started-create-a-milestone",
+              "id": "get-started/get-started-create-a-milestone",
+              "isDocsHomePage": false,
+              "title": "Create a Milestone",
+              "description": "Crear el hito Recibido",
+              "source": "@site/docs/get-started/get-started-create-a-milestone.md",
+              "sourceDirName": "get-started",
+              "slug": "/get-started/get-started-create-a-milestone",
+              "permalink": "/es/get-started/get-started-create-a-milestone",
+              "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/get-started/get-started-create-a-milestone.md",
+              "version": "current",
+              "sidebarPosition": 6,
+              "frontMatter": {
+                "sidebar_position": 6,
+                "id": "get-started-create-a-milestone",
+                "title": "Create a Milestone"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Create a Task",
+                "permalink": "/es/get-started/get-started-create-a-task"
+              },
+              "next": {
+                "title": "nimflow-portal",
+                "permalink": "/es/get-started/nimflow-portal"
+              }
+            },
+            {
+              "unversionedId": "get-started/get-started-create-a-new-context-type",
+              "id": "get-started/get-started-create-a-new-context-type",
+              "isDocsHomePage": false,
+              "title": "Create a Context Type",
+              "description": "Vamos a crear un Tipo de Contexto para comenzar a construir la solución. El Tipo de Contexto es donde se define la lógica para orquestar actividades relacionadas.",
+              "source": "@site/docs/get-started/get-started-create-a-context-type.md",
+              "sourceDirName": "get-started",
+              "slug": "/get-started/get-started-create-a-new-context-type",
+              "permalink": "/es/get-started/get-started-create-a-new-context-type",
+              "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/get-started/get-started-create-a-context-type.md",
+              "version": "current",
+              "sidebarPosition": 3,
+              "frontMatter": {
+                "sidebar_position": 3,
+                "id": "get-started-create-a-new-context-type",
+                "title": "Create a Context Type"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Introduction",
+                "permalink": "/es/get-started/get-started-intro"
+              },
+              "next": {
+                "title": "Create an Action",
+                "permalink": "/es/get-started/get-started-create-an-action"
+              }
+            },
+            {
+              "unversionedId": "get-started/get-started-create-a-task",
+              "id": "get-started/get-started-create-a-task",
+              "isDocsHomePage": false,
+              "title": "Create a Task",
+              "description": "Crear la tarea Asignar Analista",
+              "source": "@site/docs/get-started/get-started-create-a-task.md",
+              "sourceDirName": "get-started",
+              "slug": "/get-started/get-started-create-a-task",
+              "permalink": "/es/get-started/get-started-create-a-task",
+              "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/get-started/get-started-create-a-task.md",
+              "version": "current",
+              "sidebarPosition": 5,
+              "frontMatter": {
+                "sidebar_position": 5,
+                "id": "get-started-create-a-task",
+                "title": "Create a Task"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Create an Action",
+                "permalink": "/es/get-started/get-started-create-an-action"
+              },
+              "next": {
+                "title": "Create a Milestone",
+                "permalink": "/es/get-started/get-started-create-a-milestone"
+              }
+            },
+            {
+              "unversionedId": "get-started/get-started-create-an-action",
+              "id": "get-started/get-started-create-an-action",
+              "isDocsHomePage": false,
+              "title": "Create an Action",
+              "description": "Crear la acción Registrar",
+              "source": "@site/docs/get-started/get-started-create-an-action.md",
+              "sourceDirName": "get-started",
+              "slug": "/get-started/get-started-create-an-action",
+              "permalink": "/es/get-started/get-started-create-an-action",
+              "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/get-started/get-started-create-an-action.md",
+              "version": "current",
+              "sidebarPosition": 4,
+              "frontMatter": {
+                "sidebar_position": 4,
+                "id": "get-started-create-an-action",
+                "title": "Create an Action"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Create a Context Type",
+                "permalink": "/es/get-started/get-started-create-a-new-context-type"
+              },
+              "next": {
+                "title": "Create a Task",
+                "permalink": "/es/get-started/get-started-create-a-task"
+              }
+            },
+            {
+              "unversionedId": "get-started/get-started-intro",
+              "id": "get-started/get-started-intro",
+              "isDocsHomePage": false,
+              "title": "Introduction",
+              "description": "Invoice recording solution",
+              "source": "@site/docs/get-started/get-started-intro.md",
+              "sourceDirName": "get-started",
+              "slug": "/get-started/get-started-intro",
+              "permalink": "/es/get-started/get-started-intro",
+              "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/get-started/get-started-intro.md",
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "sidebar_position": 2,
+                "id": "get-started-intro",
+                "title": "Introduction"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Translate your site",
+                "permalink": "/es/tutorial-extras/translate-your-site"
+              },
+              "next": {
+                "title": "Create a Context Type",
+                "permalink": "/es/get-started/get-started-create-a-new-context-type"
+              }
+            },
+            {
+              "unversionedId": "get-started/nimflow-portal",
+              "id": "get-started/nimflow-portal",
+              "isDocsHomePage": false,
+              "title": "nimflow-portal",
+              "description": "Explorar nimflow Portal",
+              "source": "@site/docs/get-started/nimflow-portal.md",
+              "sourceDirName": "get-started",
+              "slug": "/get-started/nimflow-portal",
+              "permalink": "/es/get-started/nimflow-portal",
+              "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/get-started/nimflow-portal.md",
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Create a Milestone",
+                "permalink": "/es/get-started/get-started-create-a-milestone"
+              },
+              "next": {
+                "title": "nimflow-simulate",
+                "permalink": "/es/get-started/nimflow-simulate"
+              }
+            },
+            {
+              "unversionedId": "get-started/nimflow-simulate",
+              "id": "get-started/nimflow-simulate",
+              "isDocsHomePage": false,
+              "title": "nimflow-simulate",
+              "description": "Simular",
+              "source": "@site/docs/get-started/nimflow-simulate.md",
+              "sourceDirName": "get-started",
+              "slug": "/get-started/nimflow-simulate",
+              "permalink": "/es/get-started/nimflow-simulate",
+              "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/get-started/nimflow-simulate.md",
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "nimflow-portal",
+                "permalink": "/es/get-started/nimflow-portal"
+              }
+            },
+            {
+              "unversionedId": "tutorial-basics/congratulations",
+              "id": "tutorial-basics/congratulations",
+              "isDocsHomePage": false,
+              "title": "Congratulations!",
+              "description": "You have just learned the basics of Docusaurus and made some changes to the initial template.",
+              "source": "@site/docs/tutorial-basics/congratulations.md",
+              "sourceDirName": "tutorial-basics",
+              "slug": "/tutorial-basics/congratulations",
+              "permalink": "/es/tutorial-basics/congratulations",
+              "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/tutorial-basics/congratulations.md",
+              "version": "current",
+              "sidebarPosition": 6,
+              "frontMatter": {
+                "sidebar_position": 6
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Deploy your site",
+                "permalink": "/es/tutorial-basics/deploy-your-site"
+              },
+              "next": {
+                "title": "Manage Docs Versions",
+                "permalink": "/es/tutorial-extras/manage-docs-versions"
+              }
+            },
+            {
+              "unversionedId": "tutorial-basics/create-a-blog-post",
+              "id": "tutorial-basics/create-a-blog-post",
+              "isDocsHomePage": false,
+              "title": "Create a Blog Post",
+              "description": "Docusaurus creates a page for each blog post, but also a blog index page, a tag system, an RSS feed...",
+              "source": "@site/docs/tutorial-basics/create-a-blog-post.md",
+              "sourceDirName": "tutorial-basics",
+              "slug": "/tutorial-basics/create-a-blog-post",
+              "permalink": "/es/tutorial-basics/create-a-blog-post",
+              "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/tutorial-basics/create-a-blog-post.md",
+              "version": "current",
+              "sidebarPosition": 3,
+              "frontMatter": {
+                "sidebar_position": 3
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Create a Document",
+                "permalink": "/es/tutorial-basics/create-a-document"
+              },
+              "next": {
+                "title": "Markdown Features",
+                "permalink": "/es/tutorial-basics/markdown-features"
+              }
+            },
+            {
+              "unversionedId": "tutorial-basics/create-a-document",
+              "id": "tutorial-basics/create-a-document",
+              "isDocsHomePage": false,
+              "title": "Create a Document",
+              "description": "Documents are groups of pages connected through:",
+              "source": "@site/docs/tutorial-basics/create-a-document.md",
+              "sourceDirName": "tutorial-basics",
+              "slug": "/tutorial-basics/create-a-document",
+              "permalink": "/es/tutorial-basics/create-a-document",
+              "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/tutorial-basics/create-a-document.md",
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "sidebar_position": 2
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Create a Page",
+                "permalink": "/es/tutorial-basics/create-a-page"
+              },
+              "next": {
+                "title": "Create a Blog Post",
+                "permalink": "/es/tutorial-basics/create-a-blog-post"
+              }
+            },
+            {
+              "unversionedId": "tutorial-basics/create-a-page",
+              "id": "tutorial-basics/create-a-page",
+              "isDocsHomePage": false,
+              "title": "Create a Page",
+              "description": "Add Markdown or React files to src/pages to create a standalone page:",
+              "source": "@site/docs/tutorial-basics/create-a-page.md",
+              "sourceDirName": "tutorial-basics",
+              "slug": "/tutorial-basics/create-a-page",
+              "permalink": "/es/tutorial-basics/create-a-page",
+              "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/tutorial-basics/create-a-page.md",
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Welcome",
+                "permalink": "/es/"
+              },
+              "next": {
+                "title": "Create a Document",
+                "permalink": "/es/tutorial-basics/create-a-document"
+              }
+            },
+            {
+              "unversionedId": "tutorial-basics/deploy-your-site",
+              "id": "tutorial-basics/deploy-your-site",
+              "isDocsHomePage": false,
+              "title": "Deploy your site",
+              "description": "Docusaurus is a static-site-generator (also called Jamstack).",
+              "source": "@site/docs/tutorial-basics/deploy-your-site.md",
+              "sourceDirName": "tutorial-basics",
+              "slug": "/tutorial-basics/deploy-your-site",
+              "permalink": "/es/tutorial-basics/deploy-your-site",
+              "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/tutorial-basics/deploy-your-site.md",
+              "version": "current",
+              "sidebarPosition": 5,
+              "frontMatter": {
+                "sidebar_position": 5
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Markdown Features",
+                "permalink": "/es/tutorial-basics/markdown-features"
+              },
+              "next": {
+                "title": "Congratulations!",
+                "permalink": "/es/tutorial-basics/congratulations"
+              }
+            },
+            {
+              "unversionedId": "tutorial-basics/markdown-features",
+              "id": "tutorial-basics/markdown-features",
+              "isDocsHomePage": false,
+              "title": "Markdown Features",
+              "description": "Docusaurus supports Markdown and a few additional features.",
+              "source": "@site/docs/tutorial-basics/markdown-features.mdx",
+              "sourceDirName": "tutorial-basics",
+              "slug": "/tutorial-basics/markdown-features",
+              "permalink": "/es/tutorial-basics/markdown-features",
+              "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/tutorial-basics/markdown-features.mdx",
+              "version": "current",
+              "sidebarPosition": 4,
+              "frontMatter": {
+                "sidebar_position": 4
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Create a Blog Post",
+                "permalink": "/es/tutorial-basics/create-a-blog-post"
+              },
+              "next": {
+                "title": "Deploy your site",
+                "permalink": "/es/tutorial-basics/deploy-your-site"
+              }
+            },
+            {
+              "unversionedId": "tutorial-extras/manage-docs-versions",
+              "id": "tutorial-extras/manage-docs-versions",
+              "isDocsHomePage": false,
+              "title": "Manage Docs Versions",
+              "description": "Docusaurus can manage multiple versions of your docs.",
+              "source": "@site/docs/tutorial-extras/manage-docs-versions.md",
+              "sourceDirName": "tutorial-extras",
+              "slug": "/tutorial-extras/manage-docs-versions",
+              "permalink": "/es/tutorial-extras/manage-docs-versions",
+              "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/tutorial-extras/manage-docs-versions.md",
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Congratulations!",
+                "permalink": "/es/tutorial-basics/congratulations"
+              },
+              "next": {
+                "title": "Translate your site",
+                "permalink": "/es/tutorial-extras/translate-your-site"
+              }
+            },
+            {
+              "unversionedId": "tutorial-extras/translate-your-site",
+              "id": "tutorial-extras/translate-your-site",
+              "isDocsHomePage": false,
+              "title": "Translate your site",
+              "description": "Let's translate docs/intro.md to French.",
+              "source": "@site/docs/tutorial-extras/translate-your-site.md",
+              "sourceDirName": "tutorial-extras",
+              "slug": "/tutorial-extras/translate-your-site",
+              "permalink": "/es/tutorial-extras/translate-your-site",
+              "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/tutorial-extras/translate-your-site.md",
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "sidebar_position": 2
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Manage Docs Versions",
+                "permalink": "/es/tutorial-extras/manage-docs-versions"
+              },
+              "next": {
+                "title": "Introduction",
+                "permalink": "/es/get-started/get-started-intro"
+              }
+            },
+            {
+              "unversionedId": "welcome",
+              "id": "welcome",
+              "isDocsHomePage": false,
+              "title": "Welcome",
+              "description": "nimflow is a reactive task orchestrator for hyper-automation solutions. It enables makers to build complex solutions integrating seamlessly human and digital workers.",
+              "source": "@site/docs/welcome.md",
+              "sourceDirName": ".",
+              "slug": "/",
+              "permalink": "/es/",
+              "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/welcome.md",
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1,
+                "title": "Welcome",
+                "slug": "/"
+              },
+              "sidebar": "tutorialSidebar",
+              "next": {
+                "title": "Create a Page",
+                "permalink": "/es/tutorial-basics/create-a-page"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "docusaurus-plugin-content-pages": {
+    "default": [
+      {
+        "type": "mdx",
+        "permalink": "/es/markdown-page",
+        "source": "@site/src/pages/markdown-page.md"
+      },
+      {
+        "type": "jsx",
+        "permalink": "/es/old_index",
+        "source": "@site/src/pages/old_index.js"
+      }
+    ]
+  },
+  "docusaurus-plugin-debug": {
+    "default": null
+  },
+  "docusaurus-theme-classic": {
+    "default": null
+  }
+}

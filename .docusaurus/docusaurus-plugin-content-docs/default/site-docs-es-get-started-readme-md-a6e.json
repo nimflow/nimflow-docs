@@ -1,0 +1,23 @@
+{
+  "unversionedId": "es/get-started/README",
+  "id": "es/get-started/README",
+  "isDocsHomePage": false,
+  "title": "README",
+  "description": "Aplicación para gestión de oportunidades",
+  "source": "@site/docs/es/get-started/README.md",
+  "sourceDirName": "es/get-started",
+  "slug": "/es/get-started/README",
+  "permalink": "/es/get-started/README",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/es/get-started/README.md",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Translate your site",
+    "permalink": "/tutorial-extras/translate-your-site"
+  },
+  "next": {
+    "title": "nimflow-createAssignAnalystTask",
+    "permalink": "/es/get-started/nimflow-createAssignAnalystTask"
+  }
+}

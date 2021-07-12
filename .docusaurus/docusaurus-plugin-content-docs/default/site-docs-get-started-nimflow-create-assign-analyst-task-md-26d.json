@@ -1,0 +1,23 @@
+{
+  "unversionedId": "get-started/nimflow-createAssignAnalystTask",
+  "id": "get-started/nimflow-createAssignAnalystTask",
+  "isDocsHomePage": false,
+  "title": "nimflow-createAssignAnalystTask",
+  "description": "Crear la tarea Asignar Analista",
+  "source": "@site/docs/get-started/nimflow-createAssignAnalystTask.md",
+  "sourceDirName": "get-started",
+  "slug": "/get-started/nimflow-createAssignAnalystTask",
+  "permalink": "/get-started/nimflow-createAssignAnalystTask",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/get-started/nimflow-createAssignAnalystTask.md",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Introduction",
+    "permalink": "/get-started/get-started-intro"
+  },
+  "next": {
+    "title": "nimflow-createContextType",
+    "permalink": "/get-started/nimflow-createContextType"
+  }
+}

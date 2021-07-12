@@ -1,0 +1,23 @@
+{
+  "unversionedId": "get-started/nimflow-portal",
+  "id": "get-started/nimflow-portal",
+  "isDocsHomePage": false,
+  "title": "nimflow-portal",
+  "description": "Explorar nimflow Portal",
+  "source": "@site/docs/get-started/nimflow-portal.md",
+  "sourceDirName": "get-started",
+  "slug": "/get-started/nimflow-portal",
+  "permalink": "/es/get-started/nimflow-portal",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/get-started/nimflow-portal.md",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Create a Milestone",
+    "permalink": "/es/get-started/get-started-create-a-milestone"
+  },
+  "next": {
+    "title": "nimflow-simulate",
+    "permalink": "/es/get-started/nimflow-simulate"
+  }
+}
