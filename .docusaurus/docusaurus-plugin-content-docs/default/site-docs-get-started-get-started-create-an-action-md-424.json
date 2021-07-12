@@ -1,0 +1,28 @@
+{
+  "unversionedId": "get-started/get-started-create-an-action",
+  "id": "get-started/get-started-create-an-action",
+  "isDocsHomePage": false,
+  "title": "Create an Action",
+  "description": "Crear la acción Registrar",
+  "source": "@site/docs/get-started/get-started-create-an-action.md",
+  "sourceDirName": "get-started",
+  "slug": "/get-started/get-started-create-an-action",
+  "permalink": "/es/get-started/get-started-create-an-action",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/get-started/get-started-create-an-action.md",
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4,
+    "id": "get-started-create-an-action",
+    "title": "Create an Action"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Create a Context Type",
+    "permalink": "/es/get-started/get-started-create-a-new-context-type"
+  },
+  "next": {
+    "title": "Create a Task",
+    "permalink": "/es/get-started/get-started-create-a-task"
+  }
+}

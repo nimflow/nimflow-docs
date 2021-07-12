@@ -1,0 +1,19 @@
+{
+  "unversionedId": "get-started/nimflow-simulate",
+  "id": "get-started/nimflow-simulate",
+  "isDocsHomePage": false,
+  "title": "nimflow-simulate",
+  "description": "Simular",
+  "source": "@site/docs/get-started/nimflow-simulate.md",
+  "sourceDirName": "get-started",
+  "slug": "/get-started/nimflow-simulate",
+  "permalink": "/es/get-started/nimflow-simulate",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/get-started/nimflow-simulate.md",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "nimflow-portal",
+    "permalink": "/es/get-started/nimflow-portal"
+  }
+}

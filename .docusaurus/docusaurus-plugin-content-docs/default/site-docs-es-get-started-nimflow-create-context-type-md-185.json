@@ -1,0 +1,23 @@
+{
+  "unversionedId": "es/get-started/nimflow-createContextType",
+  "id": "es/get-started/nimflow-createContextType",
+  "isDocsHomePage": false,
+  "title": "nimflow-createContextType",
+  "description": "Antes de comenzar:",
+  "source": "@site/docs/es/get-started/nimflow-createContextType.md",
+  "sourceDirName": "es/get-started",
+  "slug": "/es/get-started/nimflow-createContextType",
+  "permalink": "/es/get-started/nimflow-createContextType",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/es/get-started/nimflow-createContextType.md",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "nimflow-createAssignAnalystTask",
+    "permalink": "/es/get-started/nimflow-createAssignAnalystTask"
+  },
+  "next": {
+    "title": "nimflow-createReceivedMilestone",
+    "permalink": "/es/get-started/nimflow-createReceivedMilestone"
+  }
+}

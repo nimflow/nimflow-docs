@@ -1,0 +1,23 @@
+{
+  "unversionedId": "es/get-started/nimflow-createRecordAction",
+  "id": "es/get-started/nimflow-createRecordAction",
+  "isDocsHomePage": false,
+  "title": "nimflow-createRecordAction",
+  "description": "Crear la acción Registrar",
+  "source": "@site/docs/es/get-started/nimflow-createRecordAction.md",
+  "sourceDirName": "es/get-started",
+  "slug": "/es/get-started/nimflow-createRecordAction",
+  "permalink": "/es/get-started/nimflow-createRecordAction",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/es/get-started/nimflow-createRecordAction.md",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "nimflow-createReceivedMilestone",
+    "permalink": "/es/get-started/nimflow-createReceivedMilestone"
+  },
+  "next": {
+    "title": "nimflow-portal",
+    "permalink": "/es/get-started/nimflow-portal"
+  }
+}

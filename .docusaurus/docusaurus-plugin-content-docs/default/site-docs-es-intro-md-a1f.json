@@ -1,0 +1,21 @@
+{
+  "unversionedId": "es/es-intro",
+  "id": "es/es-intro",
+  "isDocsHomePage": false,
+  "title": "Introducción",
+  "description": "nimflow es un orquestador de actividades que brida contexto a soluciones de hiper-automatización, permitiendo construir sin esfuerzo soluciones complejas que integren a trabajadores humanos y digitales.",
+  "source": "@site/docs/es/intro.md",
+  "sourceDirName": "es",
+  "slug": "/es/es-intro",
+  "permalink": "/es/es-intro",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/es/intro.md",
+  "version": "current",
+  "frontMatter": {
+    "id": "es-intro"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "nimflow-simulate",
+    "permalink": "/es/get-started/nimflow-simulate"
+  }
+}
