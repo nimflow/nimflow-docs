@@ -7,13 +7,13 @@
   "source": "@site/docs/get-started/nimflow-simulate.md",
   "sourceDirName": "get-started",
   "slug": "/get-started/nimflow-simulate",
-  "permalink": "/nimflow-docs/pt/get-started/nimflow-simulate",
+  "permalink": "/nimflow-docs/get-started/nimflow-simulate",
   "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/get-started/nimflow-simulate.md",
   "version": "current",
   "frontMatter": {},
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "nimflow-portal",
-    "permalink": "/nimflow-docs/pt/get-started/nimflow-portal"
+    "permalink": "/nimflow-docs/get-started/nimflow-portal"
   }
 }

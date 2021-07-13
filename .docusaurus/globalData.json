@@ -1,53 +1,53 @@
 {
   "docusaurus-plugin-content-docs": {
     "default": {
-      "path": "/nimflow-docs/pt/",
+      "path": "/nimflow-docs/",
       "versions": [
         {
           "name": "current",
           "label": "Next",
           "isLast": true,
-          "path": "/nimflow-docs/pt/",
+          "path": "/nimflow-docs/",
           "mainDocId": "welcome",
           "docs": [
             {
               "id": "get-started/get-started-create-a-milestone",
-              "path": "/nimflow-docs/pt/get-started/get-started-create-a-milestone",
+              "path": "/nimflow-docs/get-started/get-started-create-a-milestone",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "get-started/get-started-create-a-new-context-type",
-              "path": "/nimflow-docs/pt/get-started/get-started-create-a-new-context-type",
+              "path": "/nimflow-docs/get-started/get-started-create-a-new-context-type",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "get-started/get-started-create-a-task",
-              "path": "/nimflow-docs/pt/get-started/get-started-create-a-task",
+              "path": "/nimflow-docs/get-started/get-started-create-a-task",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "get-started/get-started-create-an-action",
-              "path": "/nimflow-docs/pt/get-started/get-started-create-an-action",
+              "path": "/nimflow-docs/get-started/get-started-create-an-action",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "get-started/get-started-intro",
-              "path": "/nimflow-docs/pt/get-started/get-started-intro",
+              "path": "/nimflow-docs/get-started/get-started-intro",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "get-started/nimflow-portal",
-              "path": "/nimflow-docs/pt/get-started/nimflow-portal",
+              "path": "/nimflow-docs/get-started/nimflow-portal",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "get-started/nimflow-simulate",
-              "path": "/nimflow-docs/pt/get-started/nimflow-simulate",
+              "path": "/nimflow-docs/get-started/nimflow-simulate",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "welcome",
-              "path": "/nimflow-docs/pt/",
+              "path": "/nimflow-docs/",
               "sidebar": "tutorialSidebar"
             }
           ]

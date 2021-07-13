@@ -5,7 +5,7 @@
         {
           "versionName": "current",
           "versionLabel": "Next",
-          "versionPath": "nimflow/nimflow-docs/",
+          "versionPath": "/nimflow-docs/",
           "versionEditUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs",
           "versionEditUrlLocalized": "https://github.com/facebook/docusaurus/edit/master/website/i18n/en/docusaurus-plugin-content-docs/current",
           "versionBanner": "none",
@@ -59,14 +59,14 @@
             ]
           },
           "permalinkToSidebar": {
-            "nimflow/nimflow-docs/get-started/get-started-create-a-milestone": "tutorialSidebar",
-            "nimflow/nimflow-docs/get-started/get-started-create-a-new-context-type": "tutorialSidebar",
-            "nimflow/nimflow-docs/get-started/get-started-create-a-task": "tutorialSidebar",
-            "nimflow/nimflow-docs/get-started/get-started-create-an-action": "tutorialSidebar",
-            "nimflow/nimflow-docs/get-started/get-started-intro": "tutorialSidebar",
-            "nimflow/nimflow-docs/get-started/nimflow-portal": "tutorialSidebar",
-            "nimflow/nimflow-docs/get-started/nimflow-simulate": "tutorialSidebar",
-            "nimflow/nimflow-docs/": "tutorialSidebar"
+            "/nimflow-docs/get-started/get-started-create-a-milestone": "tutorialSidebar",
+            "/nimflow-docs/get-started/get-started-create-a-new-context-type": "tutorialSidebar",
+            "/nimflow-docs/get-started/get-started-create-a-task": "tutorialSidebar",
+            "/nimflow-docs/get-started/get-started-create-an-action": "tutorialSidebar",
+            "/nimflow-docs/get-started/get-started-intro": "tutorialSidebar",
+            "/nimflow-docs/get-started/nimflow-portal": "tutorialSidebar",
+            "/nimflow-docs/get-started/nimflow-simulate": "tutorialSidebar",
+            "/nimflow-docs/": "tutorialSidebar"
           },
           "docs": [
             {
@@ -78,7 +78,7 @@
               "source": "@site/docs/get-started/get-started-create-a-milestone.md",
               "sourceDirName": "get-started",
               "slug": "/get-started/get-started-create-a-milestone",
-              "permalink": "nimflow/nimflow-docs/get-started/get-started-create-a-milestone",
+              "permalink": "/nimflow-docs/get-started/get-started-create-a-milestone",
               "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/get-started/get-started-create-a-milestone.md",
               "version": "current",
               "sidebarPosition": 6,
@@ -90,11 +90,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Create a Task",
-                "permalink": "nimflow/nimflow-docs/get-started/get-started-create-a-task"
+                "permalink": "/nimflow-docs/get-started/get-started-create-a-task"
               },
               "next": {
                 "title": "nimflow-portal",
-                "permalink": "nimflow/nimflow-docs/get-started/nimflow-portal"
+                "permalink": "/nimflow-docs/get-started/nimflow-portal"
               }
             },
             {
@@ -106,7 +106,7 @@
               "source": "@site/docs/get-started/get-started-create-a-context-type.md",
               "sourceDirName": "get-started",
               "slug": "/get-started/get-started-create-a-new-context-type",
-              "permalink": "nimflow/nimflow-docs/get-started/get-started-create-a-new-context-type",
+              "permalink": "/nimflow-docs/get-started/get-started-create-a-new-context-type",
               "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/get-started/get-started-create-a-context-type.md",
               "version": "current",
               "sidebarPosition": 3,
@@ -118,11 +118,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Introduction",
-                "permalink": "nimflow/nimflow-docs/get-started/get-started-intro"
+                "permalink": "/nimflow-docs/get-started/get-started-intro"
               },
               "next": {
                 "title": "Create an Action",
-                "permalink": "nimflow/nimflow-docs/get-started/get-started-create-an-action"
+                "permalink": "/nimflow-docs/get-started/get-started-create-an-action"
               }
             },
             {
@@ -134,7 +134,7 @@
               "source": "@site/docs/get-started/get-started-create-a-task.md",
               "sourceDirName": "get-started",
               "slug": "/get-started/get-started-create-a-task",
-              "permalink": "nimflow/nimflow-docs/get-started/get-started-create-a-task",
+              "permalink": "/nimflow-docs/get-started/get-started-create-a-task",
               "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/get-started/get-started-create-a-task.md",
               "version": "current",
               "sidebarPosition": 5,
@@ -146,11 +146,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Create an Action",
-                "permalink": "nimflow/nimflow-docs/get-started/get-started-create-an-action"
+                "permalink": "/nimflow-docs/get-started/get-started-create-an-action"
               },
               "next": {
                 "title": "Create a Milestone",
-                "permalink": "nimflow/nimflow-docs/get-started/get-started-create-a-milestone"
+                "permalink": "/nimflow-docs/get-started/get-started-create-a-milestone"
               }
             },
             {
@@ -162,7 +162,7 @@
               "source": "@site/docs/get-started/get-started-create-an-action.md",
               "sourceDirName": "get-started",
               "slug": "/get-started/get-started-create-an-action",
-              "permalink": "nimflow/nimflow-docs/get-started/get-started-create-an-action",
+              "permalink": "/nimflow-docs/get-started/get-started-create-an-action",
               "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/get-started/get-started-create-an-action.md",
               "version": "current",
               "sidebarPosition": 4,
@@ -174,11 +174,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Create a Context Type",
-                "permalink": "nimflow/nimflow-docs/get-started/get-started-create-a-new-context-type"
+                "permalink": "/nimflow-docs/get-started/get-started-create-a-new-context-type"
               },
               "next": {
                 "title": "Create a Task",
-                "permalink": "nimflow/nimflow-docs/get-started/get-started-create-a-task"
+                "permalink": "/nimflow-docs/get-started/get-started-create-a-task"
               }
             },
             {
@@ -190,7 +190,7 @@
               "source": "@site/docs/get-started/get-started-intro.md",
               "sourceDirName": "get-started",
               "slug": "/get-started/get-started-intro",
-              "permalink": "nimflow/nimflow-docs/get-started/get-started-intro",
+              "permalink": "/nimflow-docs/get-started/get-started-intro",
               "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/get-started/get-started-intro.md",
               "version": "current",
               "sidebarPosition": 2,
@@ -202,11 +202,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Welcome",
-                "permalink": "nimflow/nimflow-docs/"
+                "permalink": "/nimflow-docs/"
               },
               "next": {
                 "title": "Create a Context Type",
-                "permalink": "nimflow/nimflow-docs/get-started/get-started-create-a-new-context-type"
+                "permalink": "/nimflow-docs/get-started/get-started-create-a-new-context-type"
               }
             },
             {
@@ -218,18 +218,18 @@
               "source": "@site/docs/get-started/nimflow-portal.md",
               "sourceDirName": "get-started",
               "slug": "/get-started/nimflow-portal",
-              "permalink": "nimflow/nimflow-docs/get-started/nimflow-portal",
+              "permalink": "/nimflow-docs/get-started/nimflow-portal",
               "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/get-started/nimflow-portal.md",
               "version": "current",
               "frontMatter": {},
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Create a Milestone",
-                "permalink": "nimflow/nimflow-docs/get-started/get-started-create-a-milestone"
+                "permalink": "/nimflow-docs/get-started/get-started-create-a-milestone"
               },
               "next": {
                 "title": "nimflow-simulate",
-                "permalink": "nimflow/nimflow-docs/get-started/nimflow-simulate"
+                "permalink": "/nimflow-docs/get-started/nimflow-simulate"
               }
             },
             {
@@ -241,14 +241,14 @@
               "source": "@site/docs/get-started/nimflow-simulate.md",
               "sourceDirName": "get-started",
               "slug": "/get-started/nimflow-simulate",
-              "permalink": "nimflow/nimflow-docs/get-started/nimflow-simulate",
+              "permalink": "/nimflow-docs/get-started/nimflow-simulate",
               "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/get-started/nimflow-simulate.md",
               "version": "current",
               "frontMatter": {},
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "nimflow-portal",
-                "permalink": "nimflow/nimflow-docs/get-started/nimflow-portal"
+                "permalink": "/nimflow-docs/get-started/nimflow-portal"
               }
             },
             {
@@ -260,7 +260,7 @@
               "source": "@site/docs/welcome.md",
               "sourceDirName": ".",
               "slug": "/",
-              "permalink": "nimflow/nimflow-docs/",
+              "permalink": "/nimflow-docs/",
               "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/welcome.md",
               "version": "current",
               "sidebarPosition": 1,
@@ -272,7 +272,7 @@
               "sidebar": "tutorialSidebar",
               "next": {
                 "title": "Introduction",
-                "permalink": "nimflow/nimflow-docs/get-started/get-started-intro"
+                "permalink": "/nimflow-docs/get-started/get-started-intro"
               }
             }
           ]
@@ -284,13 +284,8 @@
     "default": [
       {
         "type": "mdx",
-        "permalink": "nimflow/nimflow-docs/markdown-page",
+        "permalink": "/nimflow-docs/markdown-page",
         "source": "@site/src/pages/markdown-page.md"
-      },
-      {
-        "type": "jsx",
-        "permalink": "nimflow/nimflow-docs/old_index",
-        "source": "@site/src/pages/old_index.js"
       }
     ]
   },

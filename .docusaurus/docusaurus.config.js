@@ -2,7 +2,7 @@ export default {
   "title": "nimflow",
   "tagline": "Making work to flow",
   "url": "https://nimflow.github.com",
-  "baseUrl": "/nimflow-docs/pt/",
+  "baseUrl": "/nimflow-docs/",
   "trailingSlash": false,
   "onBrokenLinks": "throw",
   "onBrokenMarkdownLinks": "warn",

@@ -7,7 +7,7 @@
   "source": "@site/docs/get-started/get-started-create-a-context-type.md",
   "sourceDirName": "get-started",
   "slug": "/get-started/get-started-create-a-new-context-type",
-  "permalink": "/nimflow-docs/pt/get-started/get-started-create-a-new-context-type",
+  "permalink": "/nimflow-docs/get-started/get-started-create-a-new-context-type",
   "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/get-started/get-started-create-a-context-type.md",
   "version": "current",
   "sidebarPosition": 3,
@@ -19,10 +19,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Introduction",
-    "permalink": "/nimflow-docs/pt/get-started/get-started-intro"
+    "permalink": "/nimflow-docs/get-started/get-started-intro"
   },
   "next": {
     "title": "Create an Action",
-    "permalink": "/nimflow-docs/pt/get-started/get-started-create-an-action"
+    "permalink": "/nimflow-docs/get-started/get-started-create-an-action"
   }
 }
