@@ -6,7 +6,7 @@ module.exports = {
   title: 'nimflow',
   tagline: 'Making work to flow',
   url: 'https://github.com/nimflow/nimflow-docs',
-  baseUrl: 'https://github.com/nimflow/nimflow-docs/',
+  baseUrl: 'nimflow/nimflow-docs/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
