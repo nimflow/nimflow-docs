@@ -5,8 +5,8 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 module.exports = {
   title: 'nimflow',
   tagline: 'Making work to flow',
-  url: 'https://nimflow.github.com',
-  baseUrl: '/nimflow-docs/',
+  url: 'https://docs.nimflow.com',
+  baseUrl: '/',
   trailingSlash: false,
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
