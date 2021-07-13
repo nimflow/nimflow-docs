@@ -56,20 +56,7 @@ export default {
         },
         {
           "title": "Community",
-          "items": [
-            {
-              "label": "Stack Overflow",
-              "href": "https://stackoverflow.com/questions/tagged/docusaurus"
-            },
-            {
-              "label": "Discord",
-              "href": "https://discordapp.com/invite/docusaurus"
-            },
-            {
-              "label": "Twitter",
-              "href": "https://twitter.com/docusaurus"
-            }
-          ]
+          "items": []
         }
       ],
       "copyright": "Copyright © 2021 nimflow LLC. Built with Docusaurus."
