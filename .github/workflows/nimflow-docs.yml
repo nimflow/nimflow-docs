@@ -3,10 +3,8 @@ name: nimflow-docs
 on:
   pull_request:
     branches: [gh-pages]
-  
   push:
     branches: [gh-pages]
-
 jobs:
   checks:
     if: github.event_name != 'push'
