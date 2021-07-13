@@ -7,7 +7,7 @@
   "source": "@site/docs/tutorial-extras/manage-docs-versions.md",
   "sourceDirName": "tutorial-extras",
   "slug": "/tutorial-extras/manage-docs-versions",
-  "permalink": "/es/tutorial-extras/manage-docs-versions",
+  "permalink": "nimflow/nimflow-docs/tutorial-extras/manage-docs-versions",
   "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/tutorial-extras/manage-docs-versions.md",
   "version": "current",
   "sidebarPosition": 1,
@@ -17,10 +17,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Congratulations!",
-    "permalink": "/es/tutorial-basics/congratulations"
+    "permalink": "nimflow/nimflow-docs/tutorial-basics/congratulations"
   },
   "next": {
     "title": "Translate your site",
-    "permalink": "/es/tutorial-extras/translate-your-site"
+    "permalink": "nimflow/nimflow-docs/tutorial-extras/translate-your-site"
   }
 }

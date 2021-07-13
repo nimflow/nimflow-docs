@@ -6,7 +6,7 @@ title: Create a Context Type
 
 Vamos a crear un *Tipo de Contexto* para comenzar a construir la solución. El *Tipo de Contexto* es donde se define la lógica para orquestar actividades relacionadas. 
 
-Por favor inicie sesión en [nimflow studio](https://green-plant-09b405110.azurestaticapps.net/) y seleccione una *Unidad de Negocios* de entrenamiento.
+Por favor inicie sesión en [nimflow studio](https://ins.studio.nimflow.com/) y seleccione una *Unidad de Negocios* de entrenamiento.
 
 ![switch unit](https://user-images.githubusercontent.com/44214222/118570507-ece32b00-b741-11eb-861c-79524bc7c508.png)
 
@@ -27,9 +27,3 @@ Por favor guarde los cambios al *Tipo de Contexto*.
 ![context type save changes](https://user-images.githubusercontent.com/44214222/118571442-a8588f00-b743-11eb-9a42-04d5e73285d2.png)
 
 Ya ha creado un nuevo *Tipo de Contexto* !!!!
-
-### Próximo paso
-[Crear la acción Registrar](./nimflow-createRecordAction.md)
-
-#### Paso anterior
-[Inicio](./README.md)

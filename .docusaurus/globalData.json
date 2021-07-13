@@ -1,93 +1,53 @@
 {
   "docusaurus-plugin-content-docs": {
     "default": {
-      "path": "/es/",
+      "path": "/nimflow-docs/pt/",
       "versions": [
         {
           "name": "current",
           "label": "Next",
           "isLast": true,
-          "path": "/es/",
+          "path": "/nimflow-docs/pt/",
           "mainDocId": "welcome",
           "docs": [
             {
               "id": "get-started/get-started-create-a-milestone",
-              "path": "/es/get-started/get-started-create-a-milestone",
+              "path": "/nimflow-docs/pt/get-started/get-started-create-a-milestone",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "get-started/get-started-create-a-new-context-type",
-              "path": "/es/get-started/get-started-create-a-new-context-type",
+              "path": "/nimflow-docs/pt/get-started/get-started-create-a-new-context-type",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "get-started/get-started-create-a-task",
-              "path": "/es/get-started/get-started-create-a-task",
+              "path": "/nimflow-docs/pt/get-started/get-started-create-a-task",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "get-started/get-started-create-an-action",
-              "path": "/es/get-started/get-started-create-an-action",
+              "path": "/nimflow-docs/pt/get-started/get-started-create-an-action",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "get-started/get-started-intro",
-              "path": "/es/get-started/get-started-intro",
+              "path": "/nimflow-docs/pt/get-started/get-started-intro",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "get-started/nimflow-portal",
-              "path": "/es/get-started/nimflow-portal",
+              "path": "/nimflow-docs/pt/get-started/nimflow-portal",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "get-started/nimflow-simulate",
-              "path": "/es/get-started/nimflow-simulate",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "tutorial-basics/congratulations",
-              "path": "/es/tutorial-basics/congratulations",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "tutorial-basics/create-a-blog-post",
-              "path": "/es/tutorial-basics/create-a-blog-post",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "tutorial-basics/create-a-document",
-              "path": "/es/tutorial-basics/create-a-document",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "tutorial-basics/create-a-page",
-              "path": "/es/tutorial-basics/create-a-page",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "tutorial-basics/deploy-your-site",
-              "path": "/es/tutorial-basics/deploy-your-site",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "tutorial-basics/markdown-features",
-              "path": "/es/tutorial-basics/markdown-features",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "tutorial-extras/manage-docs-versions",
-              "path": "/es/tutorial-extras/manage-docs-versions",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "tutorial-extras/translate-your-site",
-              "path": "/es/tutorial-extras/translate-your-site",
+              "path": "/nimflow-docs/pt/get-started/nimflow-simulate",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "welcome",
-              "path": "/es/",
+              "path": "/nimflow-docs/pt/",
               "sidebar": "tutorialSidebar"
             }
           ]

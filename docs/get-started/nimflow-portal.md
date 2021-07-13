@@ -34,5 +34,3 @@ Vamos a crear un nuevo contexto.
 
 Luego de la respuesta, al estar *asignado*, la tarea ya no se activa.
 
-#### Paso anterior
-[Crear la tarea Asignar Analista](./nimflow-createAssignAnalystTask.md)

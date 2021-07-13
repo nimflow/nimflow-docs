@@ -5,8 +5,9 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 module.exports = {
   title: 'nimflow',
   tagline: 'Making work to flow',
-  url: 'https://github.com/nimflow/nimflow-docs',
-  baseUrl: 'nimflow/nimflow-docs/',
+  url: 'https://nimflow.github.com',
+  baseUrl: '/nimflow-docs/',
+  trailingSlash: false,
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
@@ -47,10 +48,6 @@ module.exports = {
         {
           title: 'Documentation',
           items: [
-            {
-              label: 'Getting started',
-              to: '/docs/welcome',
-            },
           ],
         },
         {
@@ -69,20 +66,7 @@ module.exports = {
               href: 'https://twitter.com/docusaurus',
             },
           ],
-        },
-        {
-          title: 'More',
-          items: [
-            {
-              label: 'Blog',
-              to: '/blog',
-            },
-            {
-              label: 'GitHub',
-              href: 'https://github.com/facebook/docusaurus',
-            },
-          ],
-        },
+        }
       ],
       copyright: `Copyright © ${new Date().getFullYear()} nimflow LLC. Built with Docusaurus.`,
     },

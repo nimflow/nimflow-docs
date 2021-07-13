@@ -7,7 +7,7 @@
   "source": "@site/docs/tutorial-basics/create-a-page.md",
   "sourceDirName": "tutorial-basics",
   "slug": "/tutorial-basics/create-a-page",
-  "permalink": "/es/tutorial-basics/create-a-page",
+  "permalink": "nimflow/nimflow-docs/tutorial-basics/create-a-page",
   "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/tutorial-basics/create-a-page.md",
   "version": "current",
   "sidebarPosition": 1,
@@ -17,10 +17,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Welcome",
-    "permalink": "/es/"
+    "permalink": "nimflow/nimflow-docs/"
   },
   "next": {
     "title": "Create a Document",
-    "permalink": "/es/tutorial-basics/create-a-document"
+    "permalink": "nimflow/nimflow-docs/tutorial-basics/create-a-document"
   }
 }

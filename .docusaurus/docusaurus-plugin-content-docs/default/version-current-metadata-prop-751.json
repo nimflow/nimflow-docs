@@ -9,61 +9,7 @@
       {
         "type": "link",
         "label": "Welcome",
-        "href": "/es/"
-      },
-      {
-        "type": "category",
-        "label": "Tutorial - Basics",
-        "items": [
-          {
-            "type": "link",
-            "label": "Create a Page",
-            "href": "/es/tutorial-basics/create-a-page"
-          },
-          {
-            "type": "link",
-            "label": "Create a Document",
-            "href": "/es/tutorial-basics/create-a-document"
-          },
-          {
-            "type": "link",
-            "label": "Create a Blog Post",
-            "href": "/es/tutorial-basics/create-a-blog-post"
-          },
-          {
-            "type": "link",
-            "label": "Markdown Features",
-            "href": "/es/tutorial-basics/markdown-features"
-          },
-          {
-            "type": "link",
-            "label": "Deploy your site",
-            "href": "/es/tutorial-basics/deploy-your-site"
-          },
-          {
-            "type": "link",
-            "label": "Congratulations!",
-            "href": "/es/tutorial-basics/congratulations"
-          }
-        ],
-        "collapsed": true
-      },
-      {
-        "type": "category",
-        "label": "Tutorial - Extras",
-        "items": [
-          {
-            "type": "link",
-            "label": "Manage Docs Versions",
-            "href": "/es/tutorial-extras/manage-docs-versions"
-          },
-          {
-            "type": "link",
-            "label": "Translate your site",
-            "href": "/es/tutorial-extras/translate-your-site"
-          }
-        ],
-        "collapsed": true
+        "href": "/nimflow-docs/pt/"
       },
       {
         "type": "category",
@@ -72,37 +18,37 @@
           {
             "type": "link",
             "label": "Introduction",
-            "href": "/es/get-started/get-started-intro"
+            "href": "/nimflow-docs/pt/get-started/get-started-intro"
           },
           {
             "type": "link",
             "label": "Create a Context Type",
-            "href": "/es/get-started/get-started-create-a-new-context-type"
+            "href": "/nimflow-docs/pt/get-started/get-started-create-a-new-context-type"
           },
           {
             "type": "link",
             "label": "Create an Action",
-            "href": "/es/get-started/get-started-create-an-action"
+            "href": "/nimflow-docs/pt/get-started/get-started-create-an-action"
           },
           {
             "type": "link",
             "label": "Create a Task",
-            "href": "/es/get-started/get-started-create-a-task"
+            "href": "/nimflow-docs/pt/get-started/get-started-create-a-task"
           },
           {
             "type": "link",
             "label": "Create a Milestone",
-            "href": "/es/get-started/get-started-create-a-milestone"
+            "href": "/nimflow-docs/pt/get-started/get-started-create-a-milestone"
           },
           {
             "type": "link",
             "label": "nimflow-portal",
-            "href": "/es/get-started/nimflow-portal"
+            "href": "/nimflow-docs/pt/get-started/nimflow-portal"
           },
           {
             "type": "link",
             "label": "nimflow-simulate",
-            "href": "/es/get-started/nimflow-simulate"
+            "href": "/nimflow-docs/pt/get-started/nimflow-simulate"
           }
         ],
         "collapsed": true
@@ -110,21 +56,13 @@
     ]
   },
   "permalinkToSidebar": {
-    "/es/get-started/get-started-create-a-milestone": "tutorialSidebar",
-    "/es/get-started/get-started-create-a-new-context-type": "tutorialSidebar",
-    "/es/get-started/get-started-create-a-task": "tutorialSidebar",
-    "/es/get-started/get-started-create-an-action": "tutorialSidebar",
-    "/es/get-started/get-started-intro": "tutorialSidebar",
-    "/es/get-started/nimflow-portal": "tutorialSidebar",
-    "/es/get-started/nimflow-simulate": "tutorialSidebar",
-    "/es/tutorial-basics/congratulations": "tutorialSidebar",
-    "/es/tutorial-basics/create-a-blog-post": "tutorialSidebar",
-    "/es/tutorial-basics/create-a-document": "tutorialSidebar",
-    "/es/tutorial-basics/create-a-page": "tutorialSidebar",
-    "/es/tutorial-basics/deploy-your-site": "tutorialSidebar",
-    "/es/tutorial-basics/markdown-features": "tutorialSidebar",
-    "/es/tutorial-extras/manage-docs-versions": "tutorialSidebar",
-    "/es/tutorial-extras/translate-your-site": "tutorialSidebar",
-    "/es/": "tutorialSidebar"
+    "/nimflow-docs/pt/get-started/get-started-create-a-milestone": "tutorialSidebar",
+    "/nimflow-docs/pt/get-started/get-started-create-a-new-context-type": "tutorialSidebar",
+    "/nimflow-docs/pt/get-started/get-started-create-a-task": "tutorialSidebar",
+    "/nimflow-docs/pt/get-started/get-started-create-an-action": "tutorialSidebar",
+    "/nimflow-docs/pt/get-started/get-started-intro": "tutorialSidebar",
+    "/nimflow-docs/pt/get-started/nimflow-portal": "tutorialSidebar",
+    "/nimflow-docs/pt/get-started/nimflow-simulate": "tutorialSidebar",
+    "/nimflow-docs/pt/": "tutorialSidebar"
   }
 }

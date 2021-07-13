@@ -7,7 +7,7 @@
   "source": "@site/docs/welcome.md",
   "sourceDirName": ".",
   "slug": "/",
-  "permalink": "/es/",
+  "permalink": "/nimflow-docs/pt/",
   "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/welcome.md",
   "version": "current",
   "sidebarPosition": 1,
@@ -18,7 +18,7 @@
   },
   "sidebar": "tutorialSidebar",
   "next": {
-    "title": "Create a Page",
-    "permalink": "/es/tutorial-basics/create-a-page"
+    "title": "Introduction",
+    "permalink": "/nimflow-docs/pt/get-started/get-started-intro"
   }
 }

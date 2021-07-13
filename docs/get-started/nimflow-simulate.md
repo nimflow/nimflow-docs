@@ -51,11 +51,6 @@ Como se comprueba en la imagen, estos datos coinciden con los datos ingresados c
 
 Guarde la simulación antes de salir para continuar explorando sus datos en próximos pasos.
 
-### Próximo paso
-[Crear el hito recibido](./nimflow-createReceivedMilestone.md) 
-
-#### Paso anterior
-[Crear la acción Registrar](./nimflow-createRecordAction.md)
 
 
 

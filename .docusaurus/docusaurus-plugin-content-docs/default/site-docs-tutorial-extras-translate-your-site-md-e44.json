@@ -7,7 +7,7 @@
   "source": "@site/docs/tutorial-extras/translate-your-site.md",
   "sourceDirName": "tutorial-extras",
   "slug": "/tutorial-extras/translate-your-site",
-  "permalink": "/es/tutorial-extras/translate-your-site",
+  "permalink": "nimflow/nimflow-docs/tutorial-extras/translate-your-site",
   "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/tutorial-extras/translate-your-site.md",
   "version": "current",
   "sidebarPosition": 2,
@@ -17,10 +17,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Manage Docs Versions",
-    "permalink": "/es/tutorial-extras/manage-docs-versions"
+    "permalink": "nimflow/nimflow-docs/tutorial-extras/manage-docs-versions"
   },
   "next": {
     "title": "Introduction",
-    "permalink": "/es/get-started/get-started-intro"
+    "permalink": "nimflow/nimflow-docs/get-started/get-started-intro"
   }
 }

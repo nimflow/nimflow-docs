@@ -47,9 +47,3 @@ Esto creará la acción y la agregará como un nodo en el editor de **Tipo de Co
 Cada **Tipo de Contexto** debe indicar al menos una **Acción** como inicial, para que los **Contextos** puedan ser creados. Los **Contextos** representan instancias de ejecución de un **Context Type**, en este caso iniciaremos **Contextos** para cada oportunidad que identificaremos con una referencia única.
 
 Antes de continuar guarde los cambios en el **Tipo de Contexto**.
-
-### Próximo paso
-[Simular](./nimflow-simulate.md)
-
-#### Paso anterior
-[Crear un Tipo de Contexto](./nimflow-createContextType.md)

@@ -60,8 +60,3 @@ Por favor grabe la simulación antes de continuar.
 
 ### Ejercicio
 Cambie la condición de la tarea para que sólo se active en caso de que el campo *asignado* sea igual a *null*. Para esto deberá agregar la siguiente expressión en la condición de la tarea ```state.recibido != null && state.asignado == null```. Vuelva a simular después del cambio causando una reacción mediante la edición de la respuesta *asignar* en la lista de eventos. La tarea *AsignarAnalista* ya no debería aparecer en la lista de tareas.
-
-### Próximo paso
-[Explorar el Portal](./nimflow-portal.md)
-#### Paso anterior
-[Crear el hito recibido](./nimflow-createReceivedMilestone.md)

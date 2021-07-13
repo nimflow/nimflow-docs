@@ -1,100 +1,42 @@
 {
-  "/es/__docusaurus/debug-022": {
-    "component": "component---theme-debug-config-23-a-2ff"
+  "/nimflow-docs/pt/markdown-page-580": {
+    "component": "1f391b9e",
+    "content": "393be207"
   },
-  "/es/__docusaurus/debug/config-2cf": {
-    "component": "component---theme-debug-config-23-a-2ff"
+  "/nimflow-docs/pt/-df9": {
+    "component": "1be78505",
+    "versionMetadata": "935f2afb"
   },
-  "/es/__docusaurus/debug/content-445": {
-    "component": "component---theme-debug-contentba-8-ce7",
-    "allContent": "allContent---es-docusaurus-debug-content-246-252"
+  "/nimflow-docs/pt/-a87": {
+    "component": "17896441",
+    "content": "ebfee794"
   },
-  "/es/__docusaurus/debug/globalData-382": {
-    "component": "component---theme-debug-global-dataede-0fa"
+  "/nimflow-docs/pt/get-started/get-started-create-a-milestone-2ad": {
+    "component": "17896441",
+    "content": "757bdbcf"
   },
-  "/es/__docusaurus/debug/metadata-5c6": {
-    "component": "component---theme-debug-site-metadata-68-e-3d4"
+  "/nimflow-docs/pt/get-started/get-started-create-a-new-context-type-604": {
+    "component": "17896441",
+    "content": "f7ce4e27"
   },
-  "/es/__docusaurus/debug/registry-6fb": {
-    "component": "component---theme-debug-registry-679-501"
+  "/nimflow-docs/pt/get-started/get-started-create-a-task-344": {
+    "component": "17896441",
+    "content": "2161e9c2"
   },
-  "/es/__docusaurus/debug/routes-35f": {
-    "component": "component---theme-debug-routes-946-699"
+  "/nimflow-docs/pt/get-started/get-started-create-an-action-0c5": {
+    "component": "17896441",
+    "content": "424d45f4"
   },
-  "/es/markdown-page-fbe": {
-    "component": "component---theme-mdx-page-1-f-3-b90",
-    "content": "content---es-markdown-page-393-995"
+  "/nimflow-docs/pt/get-started/get-started-intro-46c": {
+    "component": "17896441",
+    "content": "c6968bea"
   },
-  "/es/old_index-005": {
-    "component": "component---site-src-pages-old-index-jsd-50-f8c",
-    "config": "config---es-old-index-5-e-9-d99"
+  "/nimflow-docs/pt/get-started/nimflow-portal-ee2": {
+    "component": "17896441",
+    "content": "0fb34bf0"
   },
-  "/es/-432": {
-    "component": "component---theme-doc-page-1-be-9be",
-    "versionMetadata": "versionMetadata---es-935-188"
-  },
-  "/es/-eaa": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---es-ebf-e61"
-  },
-  "/es/get-started/get-started-create-a-milestone-cf6": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---es-get-started-get-started-create-a-milestone-757-cbe"
-  },
-  "/es/get-started/get-started-create-a-new-context-type-c14": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---es-get-started-get-started-create-a-new-context-typef-7-c-3c0"
-  },
-  "/es/get-started/get-started-create-a-task-8c3": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---es-get-started-get-started-create-a-task-216-614"
-  },
-  "/es/get-started/get-started-create-an-action-a35": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---es-get-started-get-started-create-an-action-424-fdb"
-  },
-  "/es/get-started/get-started-intro-275": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---es-get-started-get-started-introc-69-493"
-  },
-  "/es/get-started/nimflow-portal-8d6": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---es-get-started-nimflow-portal-0-fb-d3f"
-  },
-  "/es/get-started/nimflow-simulate-dfe": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---es-get-started-nimflow-simulate-929-c58"
-  },
-  "/es/tutorial-basics/congratulations-c3c": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---es-tutorial-basics-congratulations-822-5fc"
-  },
-  "/es/tutorial-basics/create-a-blog-post-9a1": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---es-tutorial-basics-create-a-blog-post-533-3ad"
-  },
-  "/es/tutorial-basics/create-a-document-fe0": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---es-tutorial-basics-create-a-document-1-e-4-fd4"
-  },
-  "/es/tutorial-basics/create-a-page-66d": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---es-tutorial-basics-create-a-page-5-c-8-147"
-  },
-  "/es/tutorial-basics/deploy-your-site-afd": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---es-tutorial-basics-deploy-your-sitef-55-0fe"
-  },
-  "/es/tutorial-basics/markdown-features-a12": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---es-tutorial-basics-markdown-features-18-c-1a6"
-  },
-  "/es/tutorial-extras/manage-docs-versions-aa7": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---es-tutorial-extras-manage-docs-versionsdff-76e"
-  },
-  "/es/tutorial-extras/translate-your-site-ee7": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---es-tutorial-extras-translate-your-sitee-44-3eb"
+  "/nimflow-docs/pt/get-started/nimflow-simulate-b08": {
+    "component": "17896441",
+    "content": "929d350b"
   }
 }

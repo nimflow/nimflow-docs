@@ -1,8 +1,9 @@
 export default {
   "title": "nimflow",
   "tagline": "Making work to flow",
-  "url": "https://your-docusaurus-test-site.com",
-  "baseUrl": "/es/",
+  "url": "https://nimflow.github.com",
+  "baseUrl": "/nimflow-docs/pt/",
+  "trailingSlash": false,
   "onBrokenLinks": "throw",
   "onBrokenMarkdownLinks": "warn",
   "favicon": "img/favicon.ico",
@@ -51,12 +52,7 @@ export default {
       "links": [
         {
           "title": "Documentation",
-          "items": [
-            {
-              "label": "Getting started",
-              "to": "/docs/welcome"
-            }
-          ]
+          "items": []
         },
         {
           "title": "Community",
@@ -72,19 +68,6 @@ export default {
             {
               "label": "Twitter",
               "href": "https://twitter.com/docusaurus"
-            }
-          ]
-        },
-        {
-          "title": "More",
-          "items": [
-            {
-              "label": "Blog",
-              "to": "/blog"
-            },
-            {
-              "label": "GitHub",
-              "href": "https://github.com/facebook/docusaurus"
             }
           ]
         }

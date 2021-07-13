@@ -7,7 +7,7 @@
   "source": "@site/docs/get-started/get-started-create-a-task.md",
   "sourceDirName": "get-started",
   "slug": "/get-started/get-started-create-a-task",
-  "permalink": "/es/get-started/get-started-create-a-task",
+  "permalink": "/nimflow-docs/pt/get-started/get-started-create-a-task",
   "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/get-started/get-started-create-a-task.md",
   "version": "current",
   "sidebarPosition": 5,
@@ -19,10 +19,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Create an Action",
-    "permalink": "/es/get-started/get-started-create-an-action"
+    "permalink": "/nimflow-docs/pt/get-started/get-started-create-an-action"
   },
   "next": {
     "title": "Create a Milestone",
-    "permalink": "/es/get-started/get-started-create-a-milestone"
+    "permalink": "/nimflow-docs/pt/get-started/get-started-create-a-milestone"
   }
 }
