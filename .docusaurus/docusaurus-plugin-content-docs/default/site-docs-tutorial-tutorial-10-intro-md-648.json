@@ -1,0 +1,28 @@
+{
+  "unversionedId": "tutorial/tutorial-intro",
+  "id": "tutorial/tutorial-intro",
+  "isDocsHomePage": false,
+  "title": "Introduction to nimflow",
+  "description": "Overview",
+  "source": "@site/docs/tutorial/tutorial-10-intro.md",
+  "sourceDirName": "tutorial",
+  "slug": "/tutorial/tutorial-intro",
+  "permalink": "/tutorial/tutorial-intro",
+  "editUrl": "https://github.com/nimflow/nimflow-docs/tree/main/docs/tutorial/tutorial-10-intro.md",
+  "version": "current",
+  "sidebarPosition": 10,
+  "frontMatter": {
+    "sidebar_position": 10,
+    "id": "tutorial-intro",
+    "title": "Introduction to nimflow"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Set Requested field as Milestone",
+    "permalink": "/tutorial/tutorial-set-requested-milestone"
+  },
+  "next": {
+    "title": "Create a Context Type",
+    "permalink": "/tutorial/tutorial-create-context-type"
+  }
+}

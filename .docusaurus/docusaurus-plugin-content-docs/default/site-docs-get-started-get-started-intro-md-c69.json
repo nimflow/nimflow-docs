@@ -7,8 +7,8 @@
   "source": "@site/docs/get-started/get-started-intro.md",
   "sourceDirName": "get-started",
   "slug": "/get-started/get-started-intro",
-  "permalink": "/nimflow-docs/get-started/get-started-intro",
-  "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/get-started/get-started-intro.md",
+  "permalink": "/get-started/get-started-intro",
+  "editUrl": "https://github.com/nimflow/nimflow-docs/tree/main/docs/get-started/get-started-intro.md",
   "version": "current",
   "sidebarPosition": 2,
   "frontMatter": {
@@ -19,10 +19,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Welcome",
-    "permalink": "/nimflow-docs/"
+    "permalink": "/"
   },
   "next": {
     "title": "Create a Context Type",
-    "permalink": "/nimflow-docs/get-started/get-started-create-a-new-context-type"
+    "permalink": "/get-started/get-started-create-a-new-context-type"
   }
 }

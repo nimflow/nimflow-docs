@@ -72,7 +72,7 @@ module.exports = {
           routeBasePath: '/',
           // Please change this to your repo.
           editUrl:
-            'https://github.com/facebook/docusaurus/edit/master/website/',
+            'https://github.com/nimflow/nimflow-docs/tree/main/',
         },
         blog: false,
         theme: {

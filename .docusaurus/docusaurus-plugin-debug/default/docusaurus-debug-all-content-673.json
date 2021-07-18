@@ -5,9 +5,9 @@
         {
           "versionName": "current",
           "versionLabel": "Next",
-          "versionPath": "/nimflow-docs/",
-          "versionEditUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs",
-          "versionEditUrlLocalized": "https://github.com/facebook/docusaurus/edit/master/website/i18n/en/docusaurus-plugin-content-docs/current",
+          "versionPath": "/",
+          "versionEditUrl": "https://github.com/nimflow/nimflow-docs/tree/main/docs",
+          "versionEditUrlLocalized": "https://github.com/nimflow/nimflow-docs/tree/main/i18n/en/docusaurus-plugin-content-docs/current",
           "versionBanner": "none",
           "isLast": true,
           "routePriority": -1,
@@ -23,35 +23,39 @@
               },
               {
                 "type": "category",
-                "label": "get-started",
+                "label": "tutorial",
                 "items": [
                   {
                     "type": "doc",
-                    "id": "get-started/get-started-intro"
+                    "id": "tutorial/tutorial-intro"
                   },
                   {
                     "type": "doc",
-                    "id": "get-started/get-started-create-a-new-context-type"
+                    "id": "tutorial/tutorial-create-context-type"
                   },
                   {
                     "type": "doc",
-                    "id": "get-started/get-started-create-an-action"
+                    "id": "tutorial/tutorial-create-action-type"
                   },
                   {
                     "type": "doc",
-                    "id": "get-started/get-started-create-a-task"
+                    "id": "tutorial/tutorial-set-requested-milestone"
                   },
                   {
                     "type": "doc",
-                    "id": "get-started/get-started-create-a-milestone"
+                    "id": "tutorial/tutorial-create-calculated-field"
                   },
                   {
                     "type": "doc",
-                    "id": "get-started/nimflow-portal"
+                    "id": "tutorial/tutorial-create-task-type"
                   },
                   {
                     "type": "doc",
-                    "id": "get-started/nimflow-simulate"
+                    "id": "tutorial/nimflow-portal"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "tutorial/nimflow-simulate"
                   }
                 ],
                 "collapsed": true
@@ -59,196 +63,225 @@
             ]
           },
           "permalinkToSidebar": {
-            "/nimflow-docs/get-started/get-started-create-a-milestone": "tutorialSidebar",
-            "/nimflow-docs/get-started/get-started-create-a-new-context-type": "tutorialSidebar",
-            "/nimflow-docs/get-started/get-started-create-a-task": "tutorialSidebar",
-            "/nimflow-docs/get-started/get-started-create-an-action": "tutorialSidebar",
-            "/nimflow-docs/get-started/get-started-intro": "tutorialSidebar",
-            "/nimflow-docs/get-started/nimflow-portal": "tutorialSidebar",
-            "/nimflow-docs/get-started/nimflow-simulate": "tutorialSidebar",
-            "/nimflow-docs/": "tutorialSidebar"
+            "/tutorial/nimflow-portal": "tutorialSidebar",
+            "/tutorial/nimflow-simulate": "tutorialSidebar",
+            "/tutorial/tutorial-create-action-type": "tutorialSidebar",
+            "/tutorial/tutorial-create-calculated-field": "tutorialSidebar",
+            "/tutorial/tutorial-create-context-type": "tutorialSidebar",
+            "/tutorial/tutorial-create-task-type": "tutorialSidebar",
+            "/tutorial/tutorial-intro": "tutorialSidebar",
+            "/tutorial/tutorial-set-requested-milestone": "tutorialSidebar",
+            "/": "tutorialSidebar"
           },
           "docs": [
             {
-              "unversionedId": "get-started/get-started-create-a-milestone",
-              "id": "get-started/get-started-create-a-milestone",
+              "unversionedId": "tutorial/nimflow-portal",
+              "id": "tutorial/nimflow-portal",
               "isDocsHomePage": false,
-              "title": "Create a Milestone",
-              "description": "Crear el hito Recibido",
-              "source": "@site/docs/get-started/get-started-create-a-milestone.md",
-              "sourceDirName": "get-started",
-              "slug": "/get-started/get-started-create-a-milestone",
-              "permalink": "/nimflow-docs/get-started/get-started-create-a-milestone",
-              "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/get-started/get-started-create-a-milestone.md",
+              "title": "nimflow-portal",
+              "description": "Explorar nimflow Portal",
+              "source": "@site/docs/tutorial/nimflow-portal.md",
+              "sourceDirName": "tutorial",
+              "slug": "/tutorial/nimflow-portal",
+              "permalink": "/tutorial/nimflow-portal",
+              "editUrl": "https://github.com/nimflow/nimflow-docs/tree/main/docs/tutorial/nimflow-portal.md",
               "version": "current",
-              "sidebarPosition": 6,
-              "frontMatter": {
-                "sidebar_position": 6,
-                "id": "get-started-create-a-milestone",
-                "title": "Create a Milestone"
-              },
+              "frontMatter": {},
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Create a Task",
-                "permalink": "/nimflow-docs/get-started/get-started-create-a-task"
+                "title": "Create a Task Type",
+                "permalink": "/tutorial/tutorial-create-task-type"
               },
               "next": {
-                "title": "nimflow-portal",
-                "permalink": "/nimflow-docs/get-started/nimflow-portal"
+                "title": "nimflow-simulate",
+                "permalink": "/tutorial/nimflow-simulate"
               }
             },
             {
-              "unversionedId": "get-started/get-started-create-a-new-context-type",
-              "id": "get-started/get-started-create-a-new-context-type",
+              "unversionedId": "tutorial/nimflow-simulate",
+              "id": "tutorial/nimflow-simulate",
+              "isDocsHomePage": false,
+              "title": "nimflow-simulate",
+              "description": "Simular",
+              "source": "@site/docs/tutorial/nimflow-simulate.md",
+              "sourceDirName": "tutorial",
+              "slug": "/tutorial/nimflow-simulate",
+              "permalink": "/tutorial/nimflow-simulate",
+              "editUrl": "https://github.com/nimflow/nimflow-docs/tree/main/docs/tutorial/nimflow-simulate.md",
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "nimflow-portal",
+                "permalink": "/tutorial/nimflow-portal"
+              }
+            },
+            {
+              "unversionedId": "tutorial/tutorial-create-action-type",
+              "id": "tutorial/tutorial-create-action-type",
+              "isDocsHomePage": false,
+              "title": "Create an Action Type",
+              "description": "Actions represents messages sent to a Context. Contexts are instances created to keep the orchestration for different cases. To identify a Context, we must use the reference property. For our example, we will create Contexts for each different invoice, and we will set the reference with the account name and the invoice number.",
+              "source": "@site/docs/tutorial/tutorial-12-create-action-type.md",
+              "sourceDirName": "tutorial",
+              "slug": "/tutorial/tutorial-create-action-type",
+              "permalink": "/tutorial/tutorial-create-action-type",
+              "editUrl": "https://github.com/nimflow/nimflow-docs/tree/main/docs/tutorial/tutorial-12-create-action-type.md",
+              "version": "current",
+              "sidebarPosition": 12,
+              "frontMatter": {
+                "sidebar_position": 12,
+                "id": "tutorial-create-action-type",
+                "title": "Create an Action Type"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Create a Context Type",
+                "permalink": "/tutorial/tutorial-create-context-type"
+              },
+              "next": {
+                "title": "Set a Milestone",
+                "permalink": "/tutorial/tutorial-set-requested-milestone"
+              }
+            },
+            {
+              "unversionedId": "tutorial/tutorial-create-calculated-field",
+              "id": "tutorial/tutorial-create-calculated-field",
+              "isDocsHomePage": false,
+              "title": "Create a Calculated Field",
+              "description": "You will now create a Calculated Field to include a business rule into the orchestration. Calculated Fields are like formulas in Microsoft Excel. Whenever the state (Fields) are updated, the Calculated Fields are re-evaluated. The Calculated Fields expression can be written in javascript. This feature also enables to call functions from different sources like Azure Functions, Cloudflare Workers or Amazon Lambda.",
+              "source": "@site/docs/tutorial/tutorial-14-create-calculated-field.md",
+              "sourceDirName": "tutorial",
+              "slug": "/tutorial/tutorial-create-calculated-field",
+              "permalink": "/tutorial/tutorial-create-calculated-field",
+              "editUrl": "https://github.com/nimflow/nimflow-docs/tree/main/docs/tutorial/tutorial-14-create-calculated-field.md",
+              "version": "current",
+              "sidebarPosition": 14,
+              "frontMatter": {
+                "sidebar_position": 14,
+                "id": "tutorial-create-calculated-field",
+                "title": "Create a Calculated Field"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Set a Milestone",
+                "permalink": "/tutorial/tutorial-set-requested-milestone"
+              },
+              "next": {
+                "title": "Create a Task Type",
+                "permalink": "/tutorial/tutorial-create-task-type"
+              }
+            },
+            {
+              "unversionedId": "tutorial/tutorial-create-context-type",
+              "id": "tutorial/tutorial-create-context-type",
               "isDocsHomePage": false,
               "title": "Create a Context Type",
-              "description": "Vamos a crear un Tipo de Contexto para comenzar a construir la solución. El Tipo de Contexto es donde se define la lógica para orquestar actividades relacionadas.",
-              "source": "@site/docs/get-started/get-started-create-a-context-type.md",
-              "sourceDirName": "get-started",
-              "slug": "/get-started/get-started-create-a-new-context-type",
-              "permalink": "/nimflow-docs/get-started/get-started-create-a-new-context-type",
-              "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/get-started/get-started-create-a-context-type.md",
+              "description": "The Context Type is where the business logic is defined to orchestrate related activities.  We will create a new Context Type to start building our solution.",
+              "source": "@site/docs/tutorial/tutorial-11-create-context-type.md",
+              "sourceDirName": "tutorial",
+              "slug": "/tutorial/tutorial-create-context-type",
+              "permalink": "/tutorial/tutorial-create-context-type",
+              "editUrl": "https://github.com/nimflow/nimflow-docs/tree/main/docs/tutorial/tutorial-11-create-context-type.md",
               "version": "current",
-              "sidebarPosition": 3,
+              "sidebarPosition": 11,
               "frontMatter": {
-                "sidebar_position": 3,
-                "id": "get-started-create-a-new-context-type",
+                "sidebar_position": 11,
+                "id": "tutorial-create-context-type",
                 "title": "Create a Context Type"
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Introduction",
-                "permalink": "/nimflow-docs/get-started/get-started-intro"
+                "title": "Introduction to nimflow",
+                "permalink": "/tutorial/tutorial-intro"
               },
               "next": {
-                "title": "Create an Action",
-                "permalink": "/nimflow-docs/get-started/get-started-create-an-action"
+                "title": "Create an Action Type",
+                "permalink": "/tutorial/tutorial-create-action-type"
               }
             },
             {
-              "unversionedId": "get-started/get-started-create-a-task",
-              "id": "get-started/get-started-create-a-task",
+              "unversionedId": "tutorial/tutorial-create-task-type",
+              "id": "tutorial/tutorial-create-task-type",
               "isDocsHomePage": false,
-              "title": "Create a Task",
-              "description": "Crear la tarea Asignar Analista",
-              "source": "@site/docs/get-started/get-started-create-a-task.md",
-              "sourceDirName": "get-started",
-              "slug": "/get-started/get-started-create-a-task",
-              "permalink": "/nimflow-docs/get-started/get-started-create-a-task",
-              "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/get-started/get-started-create-a-task.md",
+              "title": "Create a Task Type",
+              "description": "We will now create a Task Type to approve the invoicing request when the total amount exceeds 10,000 ( the calculated field requiresApproval is true).",
+              "source": "@site/docs/tutorial/tutorial-15-create-task-type.md",
+              "sourceDirName": "tutorial",
+              "slug": "/tutorial/tutorial-create-task-type",
+              "permalink": "/tutorial/tutorial-create-task-type",
+              "editUrl": "https://github.com/nimflow/nimflow-docs/tree/main/docs/tutorial/tutorial-15-create-task-type.md",
               "version": "current",
-              "sidebarPosition": 5,
+              "sidebarPosition": 15,
               "frontMatter": {
-                "sidebar_position": 5,
-                "id": "get-started-create-a-task",
-                "title": "Create a Task"
+                "sidebar_position": 15,
+                "id": "tutorial-create-task-type",
+                "title": "Create a Task Type"
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Create an Action",
-                "permalink": "/nimflow-docs/get-started/get-started-create-an-action"
+                "title": "Create a Calculated Field",
+                "permalink": "/tutorial/tutorial-create-calculated-field"
               },
               "next": {
-                "title": "Create a Milestone",
-                "permalink": "/nimflow-docs/get-started/get-started-create-a-milestone"
+                "title": "nimflow-portal",
+                "permalink": "/tutorial/nimflow-portal"
               }
             },
             {
-              "unversionedId": "get-started/get-started-create-an-action",
-              "id": "get-started/get-started-create-an-action",
+              "unversionedId": "tutorial/tutorial-intro",
+              "id": "tutorial/tutorial-intro",
               "isDocsHomePage": false,
-              "title": "Create an Action",
-              "description": "Crear la acción Registrar",
-              "source": "@site/docs/get-started/get-started-create-an-action.md",
-              "sourceDirName": "get-started",
-              "slug": "/get-started/get-started-create-an-action",
-              "permalink": "/nimflow-docs/get-started/get-started-create-an-action",
-              "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/get-started/get-started-create-an-action.md",
+              "title": "Introduction to nimflow",
+              "description": "Overview",
+              "source": "@site/docs/tutorial/tutorial-10-introduction-nimflow.md",
+              "sourceDirName": "tutorial",
+              "slug": "/tutorial/tutorial-intro",
+              "permalink": "/tutorial/tutorial-intro",
+              "editUrl": "https://github.com/nimflow/nimflow-docs/tree/main/docs/tutorial/tutorial-10-introduction-nimflow.md",
               "version": "current",
-              "sidebarPosition": 4,
+              "sidebarPosition": 10,
               "frontMatter": {
-                "sidebar_position": 4,
-                "id": "get-started-create-an-action",
-                "title": "Create an Action"
-              },
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "Create a Context Type",
-                "permalink": "/nimflow-docs/get-started/get-started-create-a-new-context-type"
-              },
-              "next": {
-                "title": "Create a Task",
-                "permalink": "/nimflow-docs/get-started/get-started-create-a-task"
-              }
-            },
-            {
-              "unversionedId": "get-started/get-started-intro",
-              "id": "get-started/get-started-intro",
-              "isDocsHomePage": false,
-              "title": "Introduction",
-              "description": "Invoice recording solution",
-              "source": "@site/docs/get-started/get-started-intro.md",
-              "sourceDirName": "get-started",
-              "slug": "/get-started/get-started-intro",
-              "permalink": "/nimflow-docs/get-started/get-started-intro",
-              "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/get-started/get-started-intro.md",
-              "version": "current",
-              "sidebarPosition": 2,
-              "frontMatter": {
-                "sidebar_position": 2,
-                "id": "get-started-intro",
-                "title": "Introduction"
+                "sidebar_position": 10,
+                "id": "tutorial-intro",
+                "title": "Introduction to nimflow"
               },
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Welcome",
-                "permalink": "/nimflow-docs/"
+                "permalink": "/"
               },
               "next": {
                 "title": "Create a Context Type",
-                "permalink": "/nimflow-docs/get-started/get-started-create-a-new-context-type"
+                "permalink": "/tutorial/tutorial-create-context-type"
               }
             },
             {
-              "unversionedId": "get-started/nimflow-portal",
-              "id": "get-started/nimflow-portal",
+              "unversionedId": "tutorial/tutorial-set-requested-milestone",
+              "id": "tutorial/tutorial-set-requested-milestone",
               "isDocsHomePage": false,
-              "title": "nimflow-portal",
-              "description": "Explorar nimflow Portal",
-              "source": "@site/docs/get-started/nimflow-portal.md",
-              "sourceDirName": "get-started",
-              "slug": "/get-started/nimflow-portal",
-              "permalink": "/nimflow-docs/get-started/nimflow-portal",
-              "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/get-started/nimflow-portal.md",
+              "title": "Set a Milestone",
+              "description": "You will now set the field requested as a Milestone. When a field is set as a milestone, nimflow saves together with the field value the date of the last update. This feature enables to explore changes along the time like in process mining.",
+              "source": "@site/docs/tutorial/tutorial-13-set-milestone.md",
+              "sourceDirName": "tutorial",
+              "slug": "/tutorial/tutorial-set-requested-milestone",
+              "permalink": "/tutorial/tutorial-set-requested-milestone",
+              "editUrl": "https://github.com/nimflow/nimflow-docs/tree/main/docs/tutorial/tutorial-13-set-milestone.md",
               "version": "current",
-              "frontMatter": {},
+              "sidebarPosition": 13,
+              "frontMatter": {
+                "sidebar_position": 13,
+                "id": "tutorial-set-requested-milestone",
+                "title": "Set a Milestone"
+              },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Create a Milestone",
-                "permalink": "/nimflow-docs/get-started/get-started-create-a-milestone"
+                "title": "Create an Action Type",
+                "permalink": "/tutorial/tutorial-create-action-type"
               },
               "next": {
-                "title": "nimflow-simulate",
-                "permalink": "/nimflow-docs/get-started/nimflow-simulate"
-              }
-            },
-            {
-              "unversionedId": "get-started/nimflow-simulate",
-              "id": "get-started/nimflow-simulate",
-              "isDocsHomePage": false,
-              "title": "nimflow-simulate",
-              "description": "Simular",
-              "source": "@site/docs/get-started/nimflow-simulate.md",
-              "sourceDirName": "get-started",
-              "slug": "/get-started/nimflow-simulate",
-              "permalink": "/nimflow-docs/get-started/nimflow-simulate",
-              "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/get-started/nimflow-simulate.md",
-              "version": "current",
-              "frontMatter": {},
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "nimflow-portal",
-                "permalink": "/nimflow-docs/get-started/nimflow-portal"
+                "title": "Create a Calculated Field",
+                "permalink": "/tutorial/tutorial-create-calculated-field"
               }
             },
             {
@@ -260,8 +293,8 @@
               "source": "@site/docs/welcome.md",
               "sourceDirName": ".",
               "slug": "/",
-              "permalink": "/nimflow-docs/",
-              "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/welcome.md",
+              "permalink": "/",
+              "editUrl": "https://github.com/nimflow/nimflow-docs/tree/main/docs/welcome.md",
               "version": "current",
               "sidebarPosition": 1,
               "frontMatter": {
@@ -271,8 +304,8 @@
               },
               "sidebar": "tutorialSidebar",
               "next": {
-                "title": "Introduction",
-                "permalink": "/nimflow-docs/get-started/get-started-intro"
+                "title": "Introduction to nimflow",
+                "permalink": "/tutorial/tutorial-intro"
               }
             }
           ]
@@ -284,7 +317,7 @@
     "default": [
       {
         "type": "mdx",
-        "permalink": "/nimflow-docs/markdown-page",
+        "permalink": "/markdown-page",
         "source": "@site/src/pages/markdown-page.md"
       }
     ]

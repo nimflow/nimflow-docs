@@ -1,0 +1,28 @@
+{
+  "unversionedId": "Tutorial/tutorial-intro",
+  "id": "Tutorial/tutorial-intro",
+  "isDocsHomePage": false,
+  "title": "Introduction",
+  "description": "We are going to build an invoice recording solution using nimflow and Microsoft Power Automate Desktop. nimflow is technology agnostic, so you can use whatever Robotic Process Automation solution you like.",
+  "source": "@site/docs/Tutorial/tutorial-intro.md",
+  "sourceDirName": "Tutorial",
+  "slug": "/Tutorial/tutorial-intro",
+  "permalink": "/Tutorial/tutorial-intro",
+  "editUrl": "https://github.com/nimflow/nimflow-docs/tree/main/docs/Tutorial/tutorial-intro.md",
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2,
+    "id": "tutorial-intro",
+    "title": "Introduction"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Welcome",
+    "permalink": "/"
+  },
+  "next": {
+    "title": "Create a Context Type",
+    "permalink": "/Tutorial/get-started-create-a-new-context-type"
+  }
+}

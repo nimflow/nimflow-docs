@@ -1,0 +1,28 @@
+{
+  "unversionedId": "tutorial/get-started-create-a-new-context-type",
+  "id": "tutorial/get-started-create-a-new-context-type",
+  "isDocsHomePage": false,
+  "title": "Create a Context Type",
+  "description": "We will create a new Context Type to start building a solution. The Context Type is where the business logic is defined to orchestrate related activities.",
+  "source": "@site/docs/tutorial/get-started-create-a-context-type.md",
+  "sourceDirName": "tutorial",
+  "slug": "/tutorial/get-started-create-a-new-context-type",
+  "permalink": "/tutorial/get-started-create-a-new-context-type",
+  "editUrl": "https://github.com/nimflow/nimflow-docs/tree/main/docs/tutorial/get-started-create-a-context-type.md",
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3,
+    "id": "get-started-create-a-new-context-type",
+    "title": "Create a Context Type"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Introduction",
+    "permalink": "/tutorial/tutorial-intro"
+  },
+  "next": {
+    "title": "Create an Action",
+    "permalink": "/tutorial/get-started-create-an-action"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "unversionedId": "Tutorial/get-started-create-an-action",
+  "id": "Tutorial/get-started-create-an-action",
+  "isDocsHomePage": false,
+  "title": "Create an Action",
+  "description": "Crear la acción Registrar",
+  "source": "@site/docs/Tutorial/get-started-create-an-action.md",
+  "sourceDirName": "Tutorial",
+  "slug": "/Tutorial/get-started-create-an-action",
+  "permalink": "/Tutorial/get-started-create-an-action",
+  "editUrl": "https://github.com/nimflow/nimflow-docs/tree/main/docs/Tutorial/get-started-create-an-action.md",
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4,
+    "id": "get-started-create-an-action",
+    "title": "Create an Action"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Create a Context Type",
+    "permalink": "/Tutorial/get-started-create-a-new-context-type"
+  },
+  "next": {
+    "title": "Create a Task",
+    "permalink": "/Tutorial/get-started-create-a-task"
+  }
+}

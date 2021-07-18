@@ -1,0 +1,28 @@
+{
+  "unversionedId": "tutorial/tutorial-create-task-type",
+  "id": "tutorial/tutorial-create-task-type",
+  "isDocsHomePage": false,
+  "title": "Create a Task Type",
+  "description": "We will now create a Task Type to approve the invoicing request when the total amount exceeds 10,000 ( the calculated field requiresApproval is true).",
+  "source": "@site/docs/tutorial/tutorial-15-create-task-type.md",
+  "sourceDirName": "tutorial",
+  "slug": "/tutorial/tutorial-create-task-type",
+  "permalink": "/tutorial/tutorial-create-task-type",
+  "editUrl": "https://github.com/nimflow/nimflow-docs/tree/main/docs/tutorial/tutorial-15-create-task-type.md",
+  "version": "current",
+  "sidebarPosition": 15,
+  "frontMatter": {
+    "sidebar_position": 15,
+    "id": "tutorial-create-task-type",
+    "title": "Create a Task Type"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Create a Calculated Field",
+    "permalink": "/tutorial/tutorial-create-calculated-field"
+  },
+  "next": {
+    "title": "nimflow-portal",
+    "permalink": "/tutorial/nimflow-portal"
+  }
+}

@@ -3,12 +3,12 @@
   "id": "get-started/get-started-create-a-task",
   "isDocsHomePage": false,
   "title": "Create a Task",
-  "description": "Crear la tarea Asignar Analista",
+  "description": "Create a task to asign a Business Analyst",
   "source": "@site/docs/get-started/get-started-create-a-task.md",
   "sourceDirName": "get-started",
   "slug": "/get-started/get-started-create-a-task",
-  "permalink": "/nimflow-docs/get-started/get-started-create-a-task",
-  "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/get-started/get-started-create-a-task.md",
+  "permalink": "/get-started/get-started-create-a-task",
+  "editUrl": "https://github.com/nimflow/nimflow-docs/tree/main/docs/get-started/get-started-create-a-task.md",
   "version": "current",
   "sidebarPosition": 5,
   "frontMatter": {
@@ -19,10 +19,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Create an Action",
-    "permalink": "/nimflow-docs/get-started/get-started-create-an-action"
+    "permalink": "/get-started/get-started-create-an-action"
   },
   "next": {
     "title": "Create a Milestone",
-    "permalink": "/nimflow-docs/get-started/get-started-create-a-milestone"
+    "permalink": "/get-started/get-started-create-a-milestone"
   }
 }

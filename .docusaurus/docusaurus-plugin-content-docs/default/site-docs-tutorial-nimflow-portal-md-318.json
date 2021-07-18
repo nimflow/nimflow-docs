@@ -1,0 +1,23 @@
+{
+  "unversionedId": "Tutorial/nimflow-portal",
+  "id": "Tutorial/nimflow-portal",
+  "isDocsHomePage": false,
+  "title": "nimflow-portal",
+  "description": "Explorar nimflow Portal",
+  "source": "@site/docs/Tutorial/nimflow-portal.md",
+  "sourceDirName": "Tutorial",
+  "slug": "/Tutorial/nimflow-portal",
+  "permalink": "/Tutorial/nimflow-portal",
+  "editUrl": "https://github.com/nimflow/nimflow-docs/tree/main/docs/Tutorial/nimflow-portal.md",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Create a Milestone",
+    "permalink": "/Tutorial/get-started-create-a-milestone"
+  },
+  "next": {
+    "title": "nimflow-simulate",
+    "permalink": "/Tutorial/nimflow-simulate"
+  }
+}

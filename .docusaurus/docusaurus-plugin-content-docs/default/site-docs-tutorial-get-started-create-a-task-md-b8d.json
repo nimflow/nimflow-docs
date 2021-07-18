@@ -1,0 +1,28 @@
+{
+  "unversionedId": "tutorial/get-started-create-a-task",
+  "id": "tutorial/get-started-create-a-task",
+  "isDocsHomePage": false,
+  "title": "Create a Task",
+  "description": "Create a task to asign a Business Analyst",
+  "source": "@site/docs/tutorial/get-started-create-a-task.md",
+  "sourceDirName": "tutorial",
+  "slug": "/tutorial/get-started-create-a-task",
+  "permalink": "/tutorial/get-started-create-a-task",
+  "editUrl": "https://github.com/nimflow/nimflow-docs/tree/main/docs/tutorial/get-started-create-a-task.md",
+  "version": "current",
+  "sidebarPosition": 14,
+  "frontMatter": {
+    "sidebar_position": 14,
+    "id": "get-started-create-a-task",
+    "title": "Create a Task"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "1.3 Set a Milestone",
+    "permalink": "/tutorial/tutorial-set-requested-milestone"
+  },
+  "next": {
+    "title": "nimflow-portal",
+    "permalink": "/tutorial/nimflow-portal"
+  }
+}

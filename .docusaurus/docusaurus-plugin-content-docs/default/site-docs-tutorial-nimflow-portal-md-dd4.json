@@ -1,0 +1,23 @@
+{
+  "unversionedId": "tutorial/nimflow-portal",
+  "id": "tutorial/nimflow-portal",
+  "isDocsHomePage": false,
+  "title": "nimflow-portal",
+  "description": "Explorar nimflow Portal",
+  "source": "@site/docs/tutorial/nimflow-portal.md",
+  "sourceDirName": "tutorial",
+  "slug": "/tutorial/nimflow-portal",
+  "permalink": "/tutorial/nimflow-portal",
+  "editUrl": "https://github.com/nimflow/nimflow-docs/tree/main/docs/tutorial/nimflow-portal.md",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Create a Task Type",
+    "permalink": "/tutorial/tutorial-create-task-type"
+  },
+  "next": {
+    "title": "nimflow-simulate",
+    "permalink": "/tutorial/nimflow-simulate"
+  }
+}

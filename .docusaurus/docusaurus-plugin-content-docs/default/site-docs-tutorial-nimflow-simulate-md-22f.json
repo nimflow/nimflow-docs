@@ -1,0 +1,19 @@
+{
+  "unversionedId": "Tutorial/nimflow-simulate",
+  "id": "Tutorial/nimflow-simulate",
+  "isDocsHomePage": false,
+  "title": "nimflow-simulate",
+  "description": "Simular",
+  "source": "@site/docs/Tutorial/nimflow-simulate.md",
+  "sourceDirName": "Tutorial",
+  "slug": "/Tutorial/nimflow-simulate",
+  "permalink": "/Tutorial/nimflow-simulate",
+  "editUrl": "https://github.com/nimflow/nimflow-docs/tree/main/docs/Tutorial/nimflow-simulate.md",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "nimflow-portal",
+    "permalink": "/Tutorial/nimflow-portal"
+  }
+}

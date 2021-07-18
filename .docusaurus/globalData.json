@@ -1,53 +1,58 @@
 {
   "docusaurus-plugin-content-docs": {
     "default": {
-      "path": "/nimflow-docs/",
+      "path": "/",
       "versions": [
         {
           "name": "current",
           "label": "Next",
           "isLast": true,
-          "path": "/nimflow-docs/",
+          "path": "/",
           "mainDocId": "welcome",
           "docs": [
             {
-              "id": "get-started/get-started-create-a-milestone",
-              "path": "/nimflow-docs/get-started/get-started-create-a-milestone",
+              "id": "tutorial/nimflow-portal",
+              "path": "/tutorial/nimflow-portal",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "get-started/get-started-create-a-new-context-type",
-              "path": "/nimflow-docs/get-started/get-started-create-a-new-context-type",
+              "id": "tutorial/nimflow-simulate",
+              "path": "/tutorial/nimflow-simulate",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "get-started/get-started-create-a-task",
-              "path": "/nimflow-docs/get-started/get-started-create-a-task",
+              "id": "tutorial/tutorial-create-action-type",
+              "path": "/tutorial/tutorial-create-action-type",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "get-started/get-started-create-an-action",
-              "path": "/nimflow-docs/get-started/get-started-create-an-action",
+              "id": "tutorial/tutorial-create-calculated-field",
+              "path": "/tutorial/tutorial-create-calculated-field",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "get-started/get-started-intro",
-              "path": "/nimflow-docs/get-started/get-started-intro",
+              "id": "tutorial/tutorial-create-context-type",
+              "path": "/tutorial/tutorial-create-context-type",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "get-started/nimflow-portal",
-              "path": "/nimflow-docs/get-started/nimflow-portal",
+              "id": "tutorial/tutorial-create-task-type",
+              "path": "/tutorial/tutorial-create-task-type",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "get-started/nimflow-simulate",
-              "path": "/nimflow-docs/get-started/nimflow-simulate",
+              "id": "tutorial/tutorial-intro",
+              "path": "/tutorial/tutorial-intro",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorial/tutorial-set-requested-milestone",
+              "path": "/tutorial/tutorial-set-requested-milestone",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "welcome",
-              "path": "/nimflow-docs/",
+              "path": "/",
               "sidebar": "tutorialSidebar"
             }
           ]

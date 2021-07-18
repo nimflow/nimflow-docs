@@ -1,0 +1,28 @@
+{
+  "unversionedId": "tutorial/tutorial-set-requested-milestone",
+  "id": "tutorial/tutorial-set-requested-milestone",
+  "isDocsHomePage": false,
+  "title": "Set Requested field as Milestone",
+  "description": "Crear el hito Recibido",
+  "source": "@site/docs/tutorial/get-started-create-a-milestone.md",
+  "sourceDirName": "tutorial",
+  "slug": "/tutorial/tutorial-set-requested-milestone",
+  "permalink": "/tutorial/tutorial-set-requested-milestone",
+  "editUrl": "https://github.com/nimflow/nimflow-docs/tree/main/docs/tutorial/get-started-create-a-milestone.md",
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "sidebar_position": 6,
+    "id": "tutorial-set-requested-milestone",
+    "title": "Set Requested field as Milestone"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Create a Task",
+    "permalink": "/tutorial/get-started-create-a-task"
+  },
+  "next": {
+    "title": "nimflow-portal",
+    "permalink": "/tutorial/nimflow-portal"
+  }
+}

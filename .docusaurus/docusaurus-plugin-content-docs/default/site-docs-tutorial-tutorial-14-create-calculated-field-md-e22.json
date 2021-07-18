@@ -1,0 +1,28 @@
+{
+  "unversionedId": "tutorial/tutorial-create-calculated-field",
+  "id": "tutorial/tutorial-create-calculated-field",
+  "isDocsHomePage": false,
+  "title": "Create a Calculated Field",
+  "description": "You will now create a Calculated Field to include a business rule into the orchestration. Calculated Fields are like formulas in Microsoft Excel. Whenever the state (Fields) are updated, the Calculated Fields are re-evaluated. The Calculated Fields expression can be written in javascript. This feature also enables to call functions from different sources like Azure Functions, Cloudflare Workers or Amazon Lambda.",
+  "source": "@site/docs/tutorial/tutorial-14-create-calculated-field.md",
+  "sourceDirName": "tutorial",
+  "slug": "/tutorial/tutorial-create-calculated-field",
+  "permalink": "/tutorial/tutorial-create-calculated-field",
+  "editUrl": "https://github.com/nimflow/nimflow-docs/tree/main/docs/tutorial/tutorial-14-create-calculated-field.md",
+  "version": "current",
+  "sidebarPosition": 14,
+  "frontMatter": {
+    "sidebar_position": 14,
+    "id": "tutorial-create-calculated-field",
+    "title": "Create a Calculated Field"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Set a Milestone",
+    "permalink": "/tutorial/tutorial-set-requested-milestone"
+  },
+  "next": {
+    "title": "Create a Task Type",
+    "permalink": "/tutorial/tutorial-create-task-type"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "unversionedId": "tutorial/tutorial-set-requested-milestone",
+  "id": "tutorial/tutorial-set-requested-milestone",
+  "isDocsHomePage": false,
+  "title": "1.3 Set a Milestone",
+  "description": "You will now set the field requested as a Milestone. When a field is set as a milestone, nimflow saves together with the field value the date of the last update. This feature enables to explore changes along the time like in process mining.",
+  "source": "@site/docs/tutorial/tutorial-3-set-requested-milestone.md",
+  "sourceDirName": "tutorial",
+  "slug": "/tutorial/tutorial-set-requested-milestone",
+  "permalink": "/tutorial/tutorial-set-requested-milestone",
+  "editUrl": "https://github.com/nimflow/nimflow-docs/tree/main/docs/tutorial/tutorial-3-set-requested-milestone.md",
+  "version": "current",
+  "sidebarPosition": 13,
+  "frontMatter": {
+    "sidebar_position": 13,
+    "id": "tutorial-set-requested-milestone",
+    "title": "1.3 Set a Milestone"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "1.2 Create an Action Type",
+    "permalink": "/tutorial/tutorial-create-action-type"
+  },
+  "next": {
+    "title": "nimflow-portal",
+    "permalink": "/tutorial/nimflow-portal"
+  }
+}

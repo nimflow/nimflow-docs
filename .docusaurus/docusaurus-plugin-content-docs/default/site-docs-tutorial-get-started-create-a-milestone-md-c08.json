@@ -1,0 +1,28 @@
+{
+  "unversionedId": "Tutorial/get-started-create-a-milestone",
+  "id": "Tutorial/get-started-create-a-milestone",
+  "isDocsHomePage": false,
+  "title": "Create a Milestone",
+  "description": "Crear el hito Recibido",
+  "source": "@site/docs/Tutorial/get-started-create-a-milestone.md",
+  "sourceDirName": "Tutorial",
+  "slug": "/Tutorial/get-started-create-a-milestone",
+  "permalink": "/Tutorial/get-started-create-a-milestone",
+  "editUrl": "https://github.com/nimflow/nimflow-docs/tree/main/docs/Tutorial/get-started-create-a-milestone.md",
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "sidebar_position": 6,
+    "id": "get-started-create-a-milestone",
+    "title": "Create a Milestone"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Create a Task",
+    "permalink": "/Tutorial/get-started-create-a-task"
+  },
+  "next": {
+    "title": "nimflow-portal",
+    "permalink": "/Tutorial/nimflow-portal"
+  }
+}

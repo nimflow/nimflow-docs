@@ -1,8 +1,8 @@
 export default {
   "title": "nimflow",
   "tagline": "Making work to flow",
-  "url": "https://nimflow.github.com",
-  "baseUrl": "/nimflow-docs/",
+  "url": "https://docs.nimflow.com",
+  "baseUrl": "/",
   "trailingSlash": false,
   "onBrokenLinks": "throw",
   "onBrokenMarkdownLinks": "warn",
@@ -279,7 +279,7 @@ export default {
         "docs": {
           "sidebarPath": "/Users/dgr/repos/nimflow/nimflow-docs/sidebars.js",
           "routeBasePath": "/",
-          "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/"
+          "editUrl": "https://github.com/nimflow/nimflow-docs/tree/main/"
         },
         "blog": false,
         "theme": {

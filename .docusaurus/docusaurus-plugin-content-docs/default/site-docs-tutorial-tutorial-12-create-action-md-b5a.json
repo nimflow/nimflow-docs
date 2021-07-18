@@ -1,0 +1,28 @@
+{
+  "unversionedId": "tutorial/tutorial-create-action-type",
+  "id": "tutorial/tutorial-create-action-type",
+  "isDocsHomePage": false,
+  "title": "Create an Action Type",
+  "description": "Actions represents messages sent to a Context. Contexts are instances created to keep the orchestration for different cases. To identify a Context, we must use the reference property. For our example, we will create Contexts for each different invoice, and we will set the reference with the account name and the invoice number.",
+  "source": "@site/docs/tutorial/tutorial-12-create-action.md",
+  "sourceDirName": "tutorial",
+  "slug": "/tutorial/tutorial-create-action-type",
+  "permalink": "/tutorial/tutorial-create-action-type",
+  "editUrl": "https://github.com/nimflow/nimflow-docs/tree/main/docs/tutorial/tutorial-12-create-action.md",
+  "version": "current",
+  "sidebarPosition": 12,
+  "frontMatter": {
+    "sidebar_position": 12,
+    "id": "tutorial-create-action-type",
+    "title": "Create an Action Type"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Set Requested field as Milestone",
+    "permalink": "/tutorial/tutorial-set-requested-milestone"
+  },
+  "next": {
+    "title": "nimflow-portal",
+    "permalink": "/tutorial/nimflow-portal"
+  }
+}

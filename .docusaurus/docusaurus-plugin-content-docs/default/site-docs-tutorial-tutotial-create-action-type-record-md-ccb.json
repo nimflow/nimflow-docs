@@ -1,0 +1,28 @@
+{
+  "unversionedId": "tutorial/tutorial-create-record-action-type",
+  "id": "tutorial/tutorial-create-record-action-type",
+  "isDocsHomePage": false,
+  "title": "1.2 Create the Record Action Type",
+  "description": "Actions represents messages sent to a Context. Contexts are instances created to keep the orchestration for different cases. To identify a Context, we must use the reference property. For our example, we will create Contexts for each different invoice, and we will set the reference with the account name and the invoice number.",
+  "source": "@site/docs/tutorial/tutotial-create-action-type-record.md",
+  "sourceDirName": "tutorial",
+  "slug": "/tutorial/tutorial-create-record-action-type",
+  "permalink": "/tutorial/tutorial-create-record-action-type",
+  "editUrl": "https://github.com/nimflow/nimflow-docs/tree/main/docs/tutorial/tutotial-create-action-type-record.md",
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4,
+    "id": "tutorial-create-record-action-type",
+    "title": "1.2 Create the Record Action Type"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Create your first Context Type",
+    "permalink": "/tutorial/tutorial-create-context-type"
+  },
+  "next": {
+    "title": "Create a Task",
+    "permalink": "/tutorial/get-started-create-a-task"
+  }
+}
