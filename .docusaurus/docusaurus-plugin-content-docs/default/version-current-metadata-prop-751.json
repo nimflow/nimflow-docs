@@ -47,13 +47,8 @@
           },
           {
             "type": "link",
-            "label": "nimflow-portal",
-            "href": "/tutorial/nimflow-portal"
-          },
-          {
-            "type": "link",
-            "label": "nimflow-simulate",
-            "href": "/tutorial/nimflow-simulate"
+            "label": "Simulate contexts",
+            "href": "/tutorial/tutorial-simulate-contexts"
           }
         ],
         "collapsed": true
@@ -61,14 +56,13 @@
     ]
   },
   "permalinkToSidebar": {
-    "/tutorial/nimflow-portal": "tutorialSidebar",
-    "/tutorial/nimflow-simulate": "tutorialSidebar",
     "/tutorial/tutorial-create-action-type": "tutorialSidebar",
     "/tutorial/tutorial-create-calculated-field": "tutorialSidebar",
     "/tutorial/tutorial-create-context-type": "tutorialSidebar",
     "/tutorial/tutorial-create-task-type": "tutorialSidebar",
     "/tutorial/tutorial-intro": "tutorialSidebar",
     "/tutorial/tutorial-set-requested-milestone": "tutorialSidebar",
+    "/tutorial/tutorial-simulate-contexts": "tutorialSidebar",
     "/": "tutorialSidebar"
   }
 }

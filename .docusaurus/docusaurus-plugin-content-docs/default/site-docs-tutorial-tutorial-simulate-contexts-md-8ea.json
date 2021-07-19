@@ -4,11 +4,11 @@
   "isDocsHomePage": false,
   "title": "Simulate contexts",
   "description": "nimflow studio incluye un simulador de Contextos que permite explorar el estado de un contexto y su reacción a diferentes eventos.",
-  "source": "@site/docs/tutorial/nimflow-simulate.md",
+  "source": "@site/docs/tutorial/tutorial-simulate-contexts.md",
   "sourceDirName": "tutorial",
   "slug": "/tutorial/tutorial-simulate-contexts",
   "permalink": "/tutorial/tutorial-simulate-contexts",
-  "editUrl": "https://github.com/nimflow/nimflow-docs/tree/main/docs/tutorial/nimflow-simulate.md",
+  "editUrl": "https://github.com/nimflow/nimflow-docs/tree/main/docs/tutorial/tutorial-simulate-contexts.md",
   "version": "current",
   "sidebarPosition": 16,
   "frontMatter": {

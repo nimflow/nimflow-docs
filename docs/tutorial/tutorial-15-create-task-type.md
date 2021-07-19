@@ -6,6 +6,8 @@ title: Create a Task Type
 
 We will now create a Task Type to approve the invoicing request when the total amount exceeds 10,000 ( the calculated field *requiresApproval* is true). 
 
+## Add a Task Type
+
 1. Select the icon to create a Task Type
 
     ![create task](../assets/studio-context-type-task-add.png)
@@ -26,49 +28,28 @@ We will now create a Task Type to approve the invoicing request when the total a
 
     ![task editor](../assets/studio-context-type-task-approve-invoicing-request.png)
 
-## Add Setters
-
-The task Setters allows to send data with the task when the task is search through the WebAPI. This feature is usefull when the task is handled by a Digital Worker. For this case it is not neccesary because we have prepared this task only for human workers.
-
 ## Add a Task Response
 
-You will now add the possible responses for the created tasks. 
+You will now add the possible responses for the created task. 
 
-1. Seleccione el ícono para agregar una respuesta y complete el nombre de la respuesta según la imagen
+1. Select the ```+```  icon to add a response and fill the data as in the following image: 
 
-![image](https://user-images.githubusercontent.com/44214222/118592934-74459400-b76c-11eb-9921-0a7fb8313d5b.png)
+    ![response approved](../assets/studio-context-type-task-approve-invoicing-request-response-approved.png)
 
-5. Seleccione el botón *JSON SCHEMA* y complete según la imagen
+1. Now add another response as in the following image:
 
-![image](https://user-images.githubusercontent.com/44214222/118593104-be2e7a00-b76c-11eb-8da9-9c8110d74716.png)
+    ![response rejected](../assets/studio-context-type-task-approve-invoicing-request-response-rejected.png)
 
-6. Complete los datos según la imagen
+1. Accept the Task Type and set the following fields:
 
-![image](https://user-images.githubusercontent.com/44214222/118593232-f6ce5380-b76c-11eb-9f40-8fa4d7597975.png)
+    Field            | Classification
+    -------------    | --------------
+    approved         | Milestone
+    rejected         | Final milestone
+    requiresApproval | tag
+    
+    A Final Milestone archives the context and no other reaction is processes. This is the reason we didn't include ```!state.rejected``` in the task type condition. If *rejected* is not set as Final Milestone, we will need to include this expression to do not activate the task after this event.    
 
-Grabe el Tipo de Contexto y regrese a la simulación que guardamos en el paso anterior para explorar estos cambios.
+1. Save the Context Type
 
-1. Como realizamos cambios en la acción, precisamos volver a simular ese evento. Para esto es suficiente con editar el evento *registrar* y simplemente seleccionar ok para que el contexto reaccione.
-
-![image](https://user-images.githubusercontent.com/44214222/118594092-71e43980-b76e-11eb-832e-41c48474129e.png)
-
-Se puede visualizar en el Estado Actual el campo *recibido* con la fecha del momento en que se envió la acción *registrar*. También se puede ver la activación de la tarea *AsignarAnalista*.
-
-![image](https://user-images.githubusercontent.com/44214222/118594562-4ca3fb00-b76f-11eb-883f-e0baee79efcb.png)
-
-2. Para responder a la tarea, se debe seleccionar el botón *asignar* y completar los datos según la imagen.
-
-![image](https://user-images.githubusercontent.com/44214222/118594731-84ab3e00-b76f-11eb-9fef-c99871db1907.png)
-
-Antes de seleccionar el botón de enviar, intente ingresar un nombre que no coincida con una dirección de email. Como se informa en rojo, la definición del *JSON SCHEMA* permite validar los campos ingresados. Ahora complete los datos según la imagen y seleccione enviar.
-
-3. Para que el sistema reaccione en la simulación, debe expandir el evento recién agregado. Luego podrá ver en el Estado Actual los siguientes datos:
-
-![image](https://user-images.githubusercontent.com/44214222/118595069-069b6700-b770-11eb-918c-8ae15af6dc72.png)
-
-Podemos ver también que la tarea *AsignarAnalista* continua activa, ya que no hemos definido en su condición que se desactive, por ejemplo, cuando un analista esté asignado. 
-
-Por favor grabe la simulación antes de continuar.
-
-### Ejercicio
-Cambie la condición de la tarea para que sólo se active en caso de que el campo *asignado* sea igual a *null*. Para esto deberá agregar la siguiente expressión en la condición de la tarea ```state.recibido != null && state.asignado == null```. Vuelva a simular después del cambio causando una reacción mediante la edición de la respuesta *asignar* en la lista de eventos. La tarea *AsignarAnalista* ya no debería aparecer en la lista de tareas.
+Yo have completed the first Context Type. So let's simulate some Contexts.

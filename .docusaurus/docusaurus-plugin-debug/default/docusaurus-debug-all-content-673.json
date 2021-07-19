@@ -51,11 +51,7 @@
                   },
                   {
                     "type": "doc",
-                    "id": "tutorial/nimflow-portal"
-                  },
-                  {
-                    "type": "doc",
-                    "id": "tutorial/nimflow-simulate"
+                    "id": "tutorial/tutorial-simulate-contexts"
                   }
                 ],
                 "collapsed": true
@@ -63,59 +59,16 @@
             ]
           },
           "permalinkToSidebar": {
-            "/tutorial/nimflow-portal": "tutorialSidebar",
-            "/tutorial/nimflow-simulate": "tutorialSidebar",
             "/tutorial/tutorial-create-action-type": "tutorialSidebar",
             "/tutorial/tutorial-create-calculated-field": "tutorialSidebar",
             "/tutorial/tutorial-create-context-type": "tutorialSidebar",
             "/tutorial/tutorial-create-task-type": "tutorialSidebar",
             "/tutorial/tutorial-intro": "tutorialSidebar",
             "/tutorial/tutorial-set-requested-milestone": "tutorialSidebar",
+            "/tutorial/tutorial-simulate-contexts": "tutorialSidebar",
             "/": "tutorialSidebar"
           },
           "docs": [
-            {
-              "unversionedId": "tutorial/nimflow-portal",
-              "id": "tutorial/nimflow-portal",
-              "isDocsHomePage": false,
-              "title": "nimflow-portal",
-              "description": "Explorar nimflow Portal",
-              "source": "@site/docs/tutorial/nimflow-portal.md",
-              "sourceDirName": "tutorial",
-              "slug": "/tutorial/nimflow-portal",
-              "permalink": "/tutorial/nimflow-portal",
-              "editUrl": "https://github.com/nimflow/nimflow-docs/tree/main/docs/tutorial/nimflow-portal.md",
-              "version": "current",
-              "frontMatter": {},
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "Create a Task Type",
-                "permalink": "/tutorial/tutorial-create-task-type"
-              },
-              "next": {
-                "title": "nimflow-simulate",
-                "permalink": "/tutorial/nimflow-simulate"
-              }
-            },
-            {
-              "unversionedId": "tutorial/nimflow-simulate",
-              "id": "tutorial/nimflow-simulate",
-              "isDocsHomePage": false,
-              "title": "nimflow-simulate",
-              "description": "Simular",
-              "source": "@site/docs/tutorial/nimflow-simulate.md",
-              "sourceDirName": "tutorial",
-              "slug": "/tutorial/nimflow-simulate",
-              "permalink": "/tutorial/nimflow-simulate",
-              "editUrl": "https://github.com/nimflow/nimflow-docs/tree/main/docs/tutorial/nimflow-simulate.md",
-              "version": "current",
-              "frontMatter": {},
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "nimflow-portal",
-                "permalink": "/tutorial/nimflow-portal"
-              }
-            },
             {
               "unversionedId": "tutorial/tutorial-create-action-type",
               "id": "tutorial/tutorial-create-action-type",
@@ -224,8 +177,8 @@
                 "permalink": "/tutorial/tutorial-create-calculated-field"
               },
               "next": {
-                "title": "nimflow-portal",
-                "permalink": "/tutorial/nimflow-portal"
+                "title": "Simulate contexts",
+                "permalink": "/tutorial/tutorial-simulate-contexts"
               }
             },
             {
@@ -282,6 +235,30 @@
               "next": {
                 "title": "Create a Calculated Field",
                 "permalink": "/tutorial/tutorial-create-calculated-field"
+              }
+            },
+            {
+              "unversionedId": "tutorial/tutorial-simulate-contexts",
+              "id": "tutorial/tutorial-simulate-contexts",
+              "isDocsHomePage": false,
+              "title": "Simulate contexts",
+              "description": "nimflow includes a Context simulator to explore and validate Context Types. This is a usefull tool during the Context Type creation because it enables to validate the reactions to different events.",
+              "source": "@site/docs/tutorial/tutorial-16-simulate-contexts.md",
+              "sourceDirName": "tutorial",
+              "slug": "/tutorial/tutorial-simulate-contexts",
+              "permalink": "/tutorial/tutorial-simulate-contexts",
+              "editUrl": "https://github.com/nimflow/nimflow-docs/tree/main/docs/tutorial/tutorial-16-simulate-contexts.md",
+              "version": "current",
+              "sidebarPosition": 16,
+              "frontMatter": {
+                "sidebar_position": 16,
+                "id": "tutorial-simulate-contexts",
+                "title": "Simulate contexts"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Create a Task Type",
+                "permalink": "/tutorial/tutorial-create-task-type"
               }
             },
             {

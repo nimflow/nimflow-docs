@@ -13,11 +13,7 @@
   "frontMatter": {},
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Create a Task Type",
-    "permalink": "/tutorial/tutorial-create-task-type"
-  },
-  "next": {
-    "title": "nimflow-simulate",
-    "permalink": "/tutorial/nimflow-simulate"
+    "title": "Simulate contexts",
+    "permalink": "/tutorial/tutorial-simulate-contexts"
   }
 }

@@ -21,7 +21,7 @@ Let’s create an Action Type to send requests for invoice recording in our orch
     ```json
     {
         "type": "object",
-        "properties:": {
+        "properties": {
             "request": {
                 "type": "object",
                 "properties": {
@@ -48,7 +48,7 @@ Let’s create an Action Type to send requests for invoice recording in our orch
             }
         },
         "required": [
-            "invoice"
+            "request"
         ]
     }
     ```

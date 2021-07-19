@@ -11,16 +11,6 @@
           "mainDocId": "welcome",
           "docs": [
             {
-              "id": "tutorial/nimflow-portal",
-              "path": "/tutorial/nimflow-portal",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "tutorial/nimflow-simulate",
-              "path": "/tutorial/nimflow-simulate",
-              "sidebar": "tutorialSidebar"
-            },
-            {
               "id": "tutorial/tutorial-create-action-type",
               "path": "/tutorial/tutorial-create-action-type",
               "sidebar": "tutorialSidebar"
@@ -48,6 +38,11 @@
             {
               "id": "tutorial/tutorial-set-requested-milestone",
               "path": "/tutorial/tutorial-set-requested-milestone",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorial/tutorial-simulate-contexts",
+              "path": "/tutorial/tutorial-simulate-contexts",
               "sidebar": "tutorialSidebar"
             },
             {

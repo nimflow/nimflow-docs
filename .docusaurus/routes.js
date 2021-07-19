@@ -44,22 +44,12 @@ export default [
 },
 {
   path: '/',
-  component: ComponentCreator('/','200'),
+  component: ComponentCreator('/','2f0'),
   
   routes: [
 {
   path: '/',
   component: ComponentCreator('/','328'),
-  exact: true,
-},
-{
-  path: '/tutorial/nimflow-portal',
-  component: ComponentCreator('/tutorial/nimflow-portal','b77'),
-  exact: true,
-},
-{
-  path: '/tutorial/nimflow-simulate',
-  component: ComponentCreator('/tutorial/nimflow-simulate','cfa'),
   exact: true,
 },
 {
@@ -90,6 +80,11 @@ export default [
 {
   path: '/tutorial/tutorial-set-requested-milestone',
   component: ComponentCreator('/tutorial/tutorial-set-requested-milestone','895'),
+  exact: true,
+},
+{
+  path: '/tutorial/tutorial-simulate-contexts',
+  component: ComponentCreator('/tutorial/tutorial-simulate-contexts','761'),
   exact: true,
 },
 ]
