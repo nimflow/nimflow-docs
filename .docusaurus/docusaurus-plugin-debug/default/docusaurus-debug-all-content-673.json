@@ -19,11 +19,13 @@
             "tutorialSidebar": [
               {
                 "type": "doc",
+                "label": "Welcome",
                 "id": "welcome"
               },
               {
+                "collapsed": true,
                 "type": "category",
-                "label": "tutorial",
+                "label": "Get Started",
                 "items": [
                   {
                     "type": "doc",
@@ -53,12 +55,17 @@
                     "type": "doc",
                     "id": "tutorial/tutorial-simulate-contexts"
                   }
-                ],
-                "collapsed": true
+                ]
+              },
+              {
+                "type": "doc",
+                "label": "License",
+                "id": "nimflow-software-license"
               }
             ]
           },
           "permalinkToSidebar": {
+            "/license": "tutorialSidebar",
             "/tutorial/tutorial-create-action-type": "tutorialSidebar",
             "/tutorial/tutorial-create-calculated-field": "tutorialSidebar",
             "/tutorial/tutorial-create-context-type": "tutorialSidebar",
@@ -69,6 +76,30 @@
             "/": "tutorialSidebar"
           },
           "docs": [
+            {
+              "unversionedId": "nimflow-software-license",
+              "id": "nimflow-software-license",
+              "isDocsHomePage": false,
+              "title": "License",
+              "description": "Nimflow License Agreement",
+              "source": "@site/docs/nimflow-software-license.md",
+              "sourceDirName": ".",
+              "slug": "/license",
+              "permalink": "/license",
+              "editUrl": "https://github.com/nimflow/nimflow-docs/tree/main/docs/nimflow-software-license.md",
+              "version": "current",
+              "sidebarPosition": 99,
+              "frontMatter": {
+                "sidebar_position": 99,
+                "title": "License",
+                "slug": "/license"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Simulate contexts",
+                "permalink": "/tutorial/tutorial-simulate-contexts"
+              }
+            },
             {
               "unversionedId": "tutorial/tutorial-create-action-type",
               "id": "tutorial/tutorial-create-action-type",
@@ -259,6 +290,10 @@
               "previous": {
                 "title": "Create a Task Type",
                 "permalink": "/tutorial/tutorial-create-task-type"
+              },
+              "next": {
+                "title": "License",
+                "permalink": "/license"
               }
             },
             {

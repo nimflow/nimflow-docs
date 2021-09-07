@@ -44,12 +44,17 @@ export default [
 },
 {
   path: '/',
-  component: ComponentCreator('/','2f0'),
+  component: ComponentCreator('/','cf8'),
   
   routes: [
 {
   path: '/',
   component: ComponentCreator('/','328'),
+  exact: true,
+},
+{
+  path: '/license',
+  component: ComponentCreator('/license','80f'),
   exact: true,
 },
 {

@@ -12,8 +12,9 @@
         "href": "/"
       },
       {
+        "collapsed": true,
         "type": "category",
-        "label": "tutorial",
+        "label": "Get Started",
         "items": [
           {
             "type": "link",
@@ -50,12 +51,17 @@
             "label": "Simulate contexts",
             "href": "/tutorial/tutorial-simulate-contexts"
           }
-        ],
-        "collapsed": true
+        ]
+      },
+      {
+        "type": "link",
+        "label": "License",
+        "href": "/license"
       }
     ]
   },
   "permalinkToSidebar": {
+    "/license": "tutorialSidebar",
     "/tutorial/tutorial-create-action-type": "tutorialSidebar",
     "/tutorial/tutorial-create-calculated-field": "tutorialSidebar",
     "/tutorial/tutorial-create-context-type": "tutorialSidebar",

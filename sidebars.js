@@ -27,7 +27,7 @@ module.exports = {
     {
       type: 'doc',
       label: 'License',
-      id: 'nimflow-softwa-license'
+      id: 'nimflow-software-license'
     }
   ],
 

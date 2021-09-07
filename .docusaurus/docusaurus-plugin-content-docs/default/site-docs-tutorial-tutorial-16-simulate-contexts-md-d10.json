@@ -20,5 +20,9 @@
   "previous": {
     "title": "Create a Task Type",
     "permalink": "/tutorial/tutorial-create-task-type"
+  },
+  "next": {
+    "title": "License",
+    "permalink": "/license"
   }
 }

@@ -11,6 +11,11 @@
           "mainDocId": "welcome",
           "docs": [
             {
+              "id": "nimflow-software-license",
+              "path": "/license",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "tutorial/tutorial-create-action-type",
               "path": "/tutorial/tutorial-create-action-type",
               "sidebar": "tutorialSidebar"

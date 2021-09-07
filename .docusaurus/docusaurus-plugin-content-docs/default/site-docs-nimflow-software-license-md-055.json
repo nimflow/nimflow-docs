@@ -1,0 +1,24 @@
+{
+  "unversionedId": "nimflow-software-license",
+  "id": "nimflow-software-license",
+  "isDocsHomePage": false,
+  "title": "License",
+  "description": "Nimflow License Agreement",
+  "source": "@site/docs/nimflow-software-license.md",
+  "sourceDirName": ".",
+  "slug": "/license",
+  "permalink": "/license",
+  "editUrl": "https://github.com/nimflow/nimflow-docs/tree/main/docs/nimflow-software-license.md",
+  "version": "current",
+  "sidebarPosition": 99,
+  "frontMatter": {
+    "sidebar_position": 99,
+    "title": "License",
+    "slug": "/license"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Simulate contexts",
+    "permalink": "/tutorial/tutorial-simulate-contexts"
+  }
+}

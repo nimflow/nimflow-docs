@@ -12,4 +12,8 @@ nimflow is a reactive task orchestrator for hyper-automation solutions. It enabl
 
 ## Get Started
 
-Learn what nimflow is all about in the [Tutorial](./tutorial/tutorial-intro). 
+Learn what nimflow is all about in the [Get Started Guide](./tutorial/tutorial-intro). 
+
+## License
+
+Learn about our Software License for the Self-Hosted edition in [License](./license). 

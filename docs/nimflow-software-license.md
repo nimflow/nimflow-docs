@@ -1,7 +1,7 @@
 ---
 sidebar_position: 99
 title: License
-slug: /
+slug: /license
 ---
 
 ## Nimflow License Agreement
