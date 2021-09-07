@@ -1,6 +1,10 @@
-## Nimflow licensing
+---
+sidebar_position: 99
+title: License
+slug: /
+---
 
-Nimflow License Agreement
+## Nimflow License Agreement
 
   Please read this Nimflow License Agreement (the "Agreement")
   carefully before using Nimflow Software (as defined below), which
