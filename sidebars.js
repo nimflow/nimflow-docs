@@ -13,9 +13,9 @@ module.exports = {
   // By default, Docusaurus generates a sidebar from the docs folder structure
   tutorialSidebar: [
     {
-      type: 'category',
+      type: 'doc',
       labels: 'Welcome',
-      items: ['welcome']
+      id: 'welcome'
     },
     {
       type: 'category',
@@ -25,9 +25,9 @@ module.exports = {
       ]
     },
     {
-      type: 'category',
+      type: 'doc',
       labels: 'License',
-      items: ['nimflow-softwa-license']
+      id: 'nimflow-softwa-license'
     }
   ],
 
